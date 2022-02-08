@@ -1,9 +1,8 @@
 {
-  "extends": ["next/core-web-vitals"],
-  "parser": "@babel/eslint-parser",
-  "rules": {
-    "react/no-unescaped-entities": "off",
-    "@next/next/no-page-custom-font": "off",
-    "semi": "error"
-  }
+  "extends": [
+    "next/core-web-vitals",
+    "react-app",
+    "plugin:prettier/recommended"
+  ],
+  "parser": "@babel/eslint-parser"
 }
