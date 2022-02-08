@@ -1,0 +1,2214 @@
+{
+  "countries": [
+    {
+      "icon": "🇦🇩",
+      "name": "Andorra",
+      "abbr": "AD",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": ["Medium-chain acyl-CoA dehydrogenase deficiency"],
+      "miscellaneous": ["Cystic fibrosis"],
+      "Hemo": ["Sickle cell disease/thalassemia"],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["6"],
+      "Detail": ["The country NBS program is covered by France"]
+    },
+    {
+      "icon": "🇦🇱",
+      "name": "Albania",
+      "abbr": "AL",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["0"],
+      "Detail": ["no data"]
+    },
+    {
+      "icon": "🇦🇷",
+      "name": "Argentina",
+      "abbr": "AR",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["10"],
+      "Detail": []
+    },
+    {
+      "icon": "🇦🇲",
+      "name": "Armenia",
+      "abbr": "AM",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["2"],
+      "Detail": []
+    },
+    {
+      "icon": "🇦🇺",
+      "name": "Australia",
+      "abbr": "AU",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2",
+        "Argininosuccinic aciduria",
+        "Citrullinaemia type I/II",
+        "Argininemia"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia"
+      ],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": [
+        "Remethylation disorders (methylenetetrahydrofolate reductase, methylcobalamine deficiencies)",
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "Cystic fibrosis"
+      ],
+      "Hemo": [""],
+      "source": [""],
+      "url": [""],
+      "CountTest": ["41"],
+      "Detail": []
+    },
+    {
+      "icon": "🇦🇹",
+      "name": "Austria",
+      "abbr": "AT",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2",
+        "Argininosuccinic aciduria",
+        "Citrullinaemia type I/II",
+        "Argininemia"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia"
+      ],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": [
+        "Remethylation disorders (methylenetetrahydrofolate reductase, methylcobalamine deficiencies)",
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "Cystic fibrosis"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["26"],
+      "Detail": []
+    },
+    {
+      "icon": "🇦🇿",
+      "name": "Azerbaijan",
+      "abbr": "AZ",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": ["Classical galactosaemia", "G6PD"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["5"],
+      "Detail": []
+    },
+    {
+      "icon": "🇧🇩",
+      "name": "Bangladesh",
+      "abbr": "BD",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["1"],
+      "Detail": []
+    },
+    {
+      "icon": "🇧🇾",
+      "name": "Belarus",
+      "abbr": "BY",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["2"],
+      "Detail": []
+    },
+    {
+      "icon": "🇧🇪",
+      "name": "Belgium",
+      "abbr": "BE",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia"
+      ],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency"
+      ],
+      "miscellaneous": [
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "G6PD(P)",
+        "Spinal muscular atrophy(P)",
+        "Cystic fibrosis"
+      ],
+      "Hemo": ["Sickle cell disease/thalassemia(P)"],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["17"],
+      "Detail": []
+    },
+    {
+      "icon": "🇧🇴",
+      "name": "Bolivia",
+      "abbr": "BO",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["1"],
+      "Detail": []
+    },
+    {
+      "icon": "🇧🇦",
+      "name": "Bosnia and Herzegovina",
+      "abbr": "BA",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["2"],
+      "Detail": []
+    },
+    {
+      "icon": "🇧🇷",
+      "name": "Brazil",
+      "abbr": "BR",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["7"],
+      "Detail": []
+    },
+    {
+      "icon": "🇧🇳",
+      "name": "Brunei Darussalam",
+      "abbr": "BN",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["0"],
+      "Detail": []
+    },
+    {
+      "icon": "🇧🇬",
+      "name": "Bulgaria",
+      "abbr": "BG",
+      "endocrine": [
+        "(primary) Congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["3"],
+      "Detail": []
+    },
+    {
+      "icon": "🇧🇫",
+      "name": "Burkina Faso",
+      "abbr": "BF",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["0"],
+      "Detail": []
+    },
+    {
+      "icon": "🇧🇮",
+      "name": "Burundi",
+      "abbr": "BI",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["0"],
+      "Detail": []
+    },
+    {
+      "icon": "🇰🇭",
+      "name": "Cambodia",
+      "abbr": "KH",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["0"],
+      "Detail": []
+    },
+    {
+      "icon": "🇨🇳",
+      "name": "China",
+      "abbr": "CN",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["3"],
+      "Detail": []
+    },
+    {
+      "icon": "🇨🇴",
+      "name": "Colombia",
+      "abbr": "CO",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["1"],
+      "Detail": []
+    },
+    {
+      "icon": "🇨🇷",
+      "name": "Costa Rica",
+      "abbr": "CR",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["31"],
+      "Detail": []
+    },
+    {
+      "icon": "🇭🇷",
+      "name": "Croatia",
+      "abbr": "HR",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria"
+      ],
+      "fattyAcid": [
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["8"],
+      "Detail": []
+    },
+    {
+      "icon": "🇨🇺",
+      "name": "Cuba",
+      "abbr": "CU",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["5"],
+      "Detail": []
+    },
+    {
+      "icon": "🇨🇾",
+      "name": "Cyprus",
+      "abbr": "CY",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["2"],
+      "Detail": []
+    },
+    {
+      "icon": "🇨🇿",
+      "name": "Czech Republic",
+      "abbr": "CZ",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Citrullinaemia type I/II",
+        "Argininemia"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria"
+      ],
+      "fattyAcid": [
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency"
+      ],
+      "miscellaneous": [
+        "Remethylation disorders (methylenetetrahydrofolate reductase, methylcobalamine deficiencies)",
+        "Biotinidase deficiency",
+        "Cystic fibrosis"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["18"],
+      "Detail": []
+    },
+    {
+      "icon": "🇩🇰",
+      "name": "Denmark",
+      "abbr": "DK",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Tyrosinaemia type 1",
+        "Argininosuccinic aciduria"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "Multiple carboxylase deficiency"
+      ],
+      "fattyAcid": [
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": [
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "Severe Combined Immunodeficiencies",
+        "Spinal muscular atrophy(P)",
+        "Cystic fibrosis"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["19"],
+      "Detail": []
+    },
+    {
+      "icon": "🇩🇴",
+      "name": "Dominican Republic",
+      "abbr": "DO",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["0"],
+      "Detail": []
+    },
+    {
+      "icon": "🇪🇨",
+      "name": "Ecuador",
+      "abbr": "EC",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["4"],
+      "Detail": []
+    },
+    {
+      "icon": "🇪🇪",
+      "name": "Estonia",
+      "abbr": "EE",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2",
+        "Citrullinaemia type I/II",
+        "Argininemia"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia"
+      ],
+      "fattyAcid": [
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["19"],
+      "Detail": []
+    },
+    {
+      "icon": "🇫🇯",
+      "name": "Fiji",
+      "abbr": "FJ",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["0"],
+      "Detail": []
+    },
+    {
+      "icon": "🇫🇮",
+      "name": "Finland",
+      "abbr": "FI",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1",
+        "Argininosuccinic aciduria",
+        "Citrullinaemia type I/II",
+        "Argininemia"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia"
+      ],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": ["Severe Combined Immunodeficiencies(P)"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["21"],
+      "Detail": []
+    },
+    {
+      "icon": "🇫🇷",
+      "name": "France",
+      "abbr": "FR",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": ["Medium-chain acyl-CoA dehydrogenase deficiency"],
+      "miscellaneous": ["Cystic fibrosis"],
+      "Hemo": ["Sickle cell disease/thalassemia"],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["6"],
+      "Detail": []
+    },
+    {
+      "icon": "🇬🇪",
+      "name": "Georgia",
+      "abbr": "GE",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": ["Cystic fibrosis"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["3"],
+      "Detail": []
+    },
+    {
+      "icon": "🇩🇪",
+      "name": "Germany",
+      "abbr": "DE",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Tyrosinaemia type 1"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria"
+      ],
+      "fattyAcid": [
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency"
+      ],
+      "miscellaneous": [
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "Severe Combined Immunodeficiencies",
+        "Spinal muscular atrophy(P)",
+        "Cystic fibrosis"
+      ],
+      "Hemo": ["Sickle cell disease/thalassemia(P)"],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["17"],
+      "Detail": []
+    },
+    {
+      "icon": "🇬🇷",
+      "name": "Greece",
+      "abbr": "GR",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": ["Classical galactosaemia", "G6PD"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["4"],
+      "Detail": []
+    },
+    {
+      "icon": "🇬🇹",
+      "name": "Guatemala",
+      "abbr": "GT",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["1"],
+      "Detail": []
+    },
+    {
+      "icon": "🇭🇹",
+      "name": "Haiti",
+      "abbr": "HT",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["0"],
+      "Detail": []
+    },
+    {
+      "icon": "🇭🇳",
+      "name": "Honduras",
+      "abbr": "HN",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["0"],
+      "Detail": []
+    },
+    {
+      "icon": "🇭🇺",
+      "name": "Hungary",
+      "abbr": "HU",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2",
+        "Argininosuccinic aciduria",
+        "Citrullinaemia type I/II"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "3-Methylcrotonyl-CoA carboxylase deficiency/3-Methylglutacon aciduria/2-methyl-3-OH-butyric aciduria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "Beta-ketothiolase deficiency",
+        "3-Hydroxy-3-methylglutaric aciduria",
+        "Multiple carboxylase deficiency"
+      ],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Short-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency"
+      ],
+      "miscellaneous": [
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "CF(P)"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["26"],
+      "Detail": []
+    },
+    {
+      "icon": "🇮🇳",
+      "name": "India",
+      "abbr": "IN",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["0"],
+      "Detail": []
+    },
+    {
+      "icon": "🇮🇩",
+      "name": "Indonesia",
+      "abbr": "ID",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["0"],
+      "Detail": []
+    },
+    {
+      "icon": "🇮🇸",
+      "name": "Iceland",
+      "abbr": "IS",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Argininosuccinic aciduria",
+        "Citrullinaemia type I/II",
+        "Argininemia"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "3-Methylcrotonyl-CoA carboxylase deficiency/3-Methylglutacon aciduria/2-methyl-3-OH-butyric aciduria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "Beta-ketothiolase deficiency",
+        "Holocarboxylase synthetase deficiency",
+        "3-Hydroxy-3-methylglutaric aciduria",
+        "Multiple carboxylase deficiency"
+      ],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Short-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": ["xALD(P)", "Severe Combined Immunodeficiencies"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["27"],
+      "Detail": []
+    },
+    {
+      "icon": "🇮🇪",
+      "name": "Ireland",
+      "abbr": "IE",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)"
+      ],
+      "organicAcid": ["Glutaric acidaemia type I"],
+      "fattyAcid": ["Medium-chain acyl-CoA dehydrogenase deficiency"],
+      "miscellaneous": ["Classical galactosaemia", "Cystic fibrosis"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["8"],
+      "Detail": []
+    },
+    {
+      "icon": "🇮🇱",
+      "name": "Israel",
+      "abbr": "IL",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia(P)"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2",
+        "Argininosuccinic aciduria",
+        "Citrullinaemia type I/II",
+        "Argininemia",
+        "MAT I/III"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "Beta-ketothiolase deficiency",
+        "Holocarboxylase synthetase deficiency",
+        "3-Hydroxy-3-methylglutaric aciduria",
+        "Multiple carboxylase deficiency"
+      ],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": [
+        "Classical galactosaemia",
+        "UDP-galactose-4-epimerase deficiency",
+        "xALD(P)",
+        "Severe Combined Immunodeficiencies"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["19"],
+      "Detail": []
+    },
+    {
+      "icon": "🇮🇹",
+      "name": "Italy",
+      "abbr": "IT",
+      "endocrine": ["Primary congenital hypothyroidism", "CAH(P)"],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2",
+        "Argininosuccinic aciduria",
+        "Citrullinaemia type I/II",
+        "Argininemia"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "3-Methylcrotonyl-CoA carboxylase deficiency/3-Methylglutacon aciduria/2-methyl-3-OH-butyric aciduria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "Beta-ketothiolase deficiency",
+        "Holocarboxylase synthetase deficiency",
+        "3-Hydroxy-3-methylglutaric aciduria",
+        "Multiple carboxylase deficiency"
+      ],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Short-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": [
+        "Remethylation disorders (methylenetetrahydrofolate reductase, methylcobalamine deficiencies)",
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "G6PD(P)",
+        "Severe Combined Immunodeficiencies(P)",
+        "Spinal muscular atrophy(P)",
+        "Cystic fibrosis"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["31"],
+      "Detail": []
+    },
+    {
+      "icon": "🇯🇵",
+      "name": "Japan",
+      "abbr": "JP",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["28"],
+      "Detail": []
+    },
+    {
+      "icon": "🇰🇿",
+      "name": "Kazakhstan",
+      "abbr": "KZ",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": ["CF(P)"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["2"],
+      "Detail": []
+    },
+    {
+      "icon": "🇰🇬",
+      "name": "Kyrgyzstan",
+      "abbr": "KG",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["1"],
+      "Detail": []
+    },
+    {
+      "icon": "🇰🇷",
+      "name": "Korea, Republic of",
+      "abbr": "KR",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["28"],
+      "Detail": []
+    },
+    {
+      "icon": "🇱🇦",
+      "name": "Lao People's Democratic Republic",
+      "abbr": "LA",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["0"],
+      "Detail": []
+    },
+    {
+      "icon": "🇱🇻",
+      "name": "Latvia",
+      "abbr": "LV",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "Cystic fibrosis"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["6"],
+      "Detail": []
+    },
+    {
+      "icon": "🇱🇮",
+      "name": "Liechtenstein",
+      "abbr": "LI",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classic phenylketonuria", "Maple Syrup Urine Disease"],
+      "organicAcid": ["Glutaric acidaemia type I"],
+      "fattyAcid": ["Medium-chain acyl-CoA dehydrogenase deficiency"],
+      "miscellaneous": [
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "Severe Combined Immunodeficiencies",
+        "Cystic fibrosis"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["10"],
+      "Detail": ["The country NBS program is covered by Switzerland"]
+    },
+    {
+      "abbr": "LTU",
+      "name": "Lithuania",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": ["Classical galactosaemia"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["4"],
+      "Detail": []
+    },
+    {
+      "icon": "🇱🇺",
+      "name": "Luxembourg",
+      "abbr": "LU",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": ["Medium-chain acyl-CoA dehydrogenase deficiency"],
+      "miscellaneous": ["Cystic fibrosis"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["5"],
+      "Detail": []
+    },
+    {
+      "icon": "🇲🇰",
+      "abbr": "MK",
+      "name": "North Macedonia",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1",
+        "Argininosuccinic aciduria",
+        "Citrullinaemia type I/II",
+        "Argininemia"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "3-Methylcrotonyl-CoA carboxylase deficiency/3-Methylglutacon aciduria/2-methyl-3-OH-butyric aciduria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "Beta-ketothiolase deficiency",
+        "Holocarboxylase synthetase deficiency",
+        "Multiple carboxylase deficiency"
+      ],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Short-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": ["CF(P)"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["25"],
+      "Detail": []
+    },
+    {
+      "icon": "🇲🇾",
+      "name": "Malaysia",
+      "abbr": "MY",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["2"],
+      "Detail": []
+    },
+    {
+      "icon": "🇲🇹",
+      "name": "Malta",
+      "abbr": "MT",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": ["Sickle cell disease/thalassemia"],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["3"],
+      "Detail": []
+    },
+    {
+      "icon": "🇲🇽",
+      "name": "Mexico",
+      "abbr": "MX",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["5"],
+      "Detail": []
+    },
+    {
+      "icon": "🇲🇩",
+      "name": "Moldova, Republic of",
+      "abbr": "MD",
+      "endocrine": [""],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["1"],
+      "Detail": []
+    },
+    {
+      "icon": "🇲🇨",
+      "name": "Monaco",
+      "abbr": "MC",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": ["Medium-chain acyl-CoA dehydrogenase deficiency"],
+      "miscellaneous": ["Cystic fibrosis"],
+      "Hemo": ["Sickle cell disease/thalassemia"],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["6"],
+      "Detail": ["The country NBS program is covered by France"]
+    },
+    {
+      "icon": "🇲🇪",
+      "name": "Montenegro",
+      "abbr": "ME",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": ["Cystic fibrosis"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["1"],
+      "Detail": []
+    },
+    {
+      "icon": "🇳🇱",
+      "name": "Netherlands",
+      "abbr": "NL",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Tyrosinaemia type 1"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "3-Methylcrotonyl-CoA carboxylase deficiency/3-Methylglutacon aciduria/2-methyl-3-OH-butyric aciduria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "3-Hydroxy-3-methylglutaric aciduria",
+        "Multiple carboxylase deficiency"
+      ],
+      "fattyAcid": [
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I"
+      ],
+      "miscellaneous": [
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "xALD",
+        "Severe Combined Immunodeficiencies(P)",
+        "Cystic fibrosis"
+      ],
+      "Hemo": ["Sickle cell disease/thalassemia(P)"],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["20"],
+      "Detail": []
+    },
+    {
+      "icon": "🇳🇿",
+      "name": "New Zealand",
+      "abbr": "NZ",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["29"],
+      "Detail": []
+    },
+    {
+      "icon": "🇳🇮",
+      "name": "Nicaragua",
+      "abbr": "NI",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["1"],
+      "Detail": []
+    },
+    {
+      "icon": "🇳🇴",
+      "name": "Norway",
+      "abbr": "NO",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "Beta-ketothiolase deficiency",
+        "Holocarboxylase synthetase deficiency",
+        "3-Hydroxy-3-methylglutaric aciduria",
+        "Multiple carboxylase deficiency"
+      ],
+      "fattyAcid": [
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": [
+        "Biotinidase deficiency",
+        "Severe Combined Immunodeficiencies",
+        "Cystic fibrosis"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["23"],
+      "Detail": []
+    },
+    {
+      "icon": "🇵🇼",
+      "name": "Palau",
+      "abbr": "PW",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["5"],
+      "Detail": []
+    },
+    {
+      "icon": "🇵🇦",
+      "name": "Panama",
+      "abbr": "Propionic acidaemia",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["8"],
+      "Detail": []
+    },
+    {
+      "icon": "🇵🇾",
+      "name": "Paraguay",
+      "abbr": "PY",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["3"],
+      "Detail": []
+    },
+    {
+      "icon": "🇵🇭",
+      "name": "Philippines",
+      "abbr": "PH",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["6"],
+      "Detail": []
+    },
+    {
+      "icon": "🇵🇱",
+      "name": "Poland",
+      "abbr": "PL",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2",
+        "Argininosuccinic aciduria",
+        "Citrullinaemia type I/II",
+        "Argininemia"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "3-Methylcrotonyl-CoA carboxylase deficiency/3-Methylglutacon aciduria/2-methyl-3-OH-butyric aciduria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "Beta-ketothiolase deficiency",
+        "3-Hydroxy-3-methylglutaric aciduria"
+      ],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": [
+        "GAL(P)",
+        "Biotinidase deficiency",
+        "Severe Combined Immunodeficiencies",
+        "Cystic fibrosis"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["27"],
+      "Detail": []
+    },
+    {
+      "icon": "🇵🇹",
+      "name": "Portugal",
+      "abbr": "PT",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2",
+        "Argininosuccinic aciduria",
+        "Citrullinaemia type I/II",
+        "Argininemia"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "3-Methylcrotonyl-CoA carboxylase deficiency/3-Methylglutacon aciduria/2-methyl-3-OH-butyric aciduria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "3-Hydroxy-3-methylglutaric aciduria"
+      ],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": ["Cystic fibrosis"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["24"],
+      "Detail": []
+    },
+    {
+      "icon": "🇶🇦",
+      "name": "Qatar",
+      "abbr": "QA",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["43"],
+      "Detail": []
+    },
+    {
+      "icon": "🇷🇴",
+      "name": "Romania",
+      "abbr": "RO",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2"
+      ],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["4"],
+      "Detail": []
+    },
+    {
+      "icon": "🇷🇺",
+      "name": "Russian Federation",
+      "abbr": "RU",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2"
+      ],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": ["Cystic fibrosis"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["6"],
+      "Detail": []
+    },
+    {
+      "icon": "🇸🇲",
+      "name": "San Marino",
+      "abbr": "SM",
+      "endocrine": ["Primary congenital hypothyroidism", "CAH(P)"],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2",
+        "Argininosuccinic aciduria",
+        "Citrullinaemia type I/II",
+        "Argininemia"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "3-Methylcrotonyl-CoA carboxylase deficiency/3-Methylglutacon aciduria/2-methyl-3-OH-butyric aciduria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "Beta-ketothiolase deficiency",
+        "Holocarboxylase synthetase deficiency",
+        "3-Hydroxy-3-methylglutaric aciduria",
+        "Multiple carboxylase deficiency"
+      ],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Short-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": [
+        "Remethylation disorders (methylenetetrahydrofolate reductase, methylcobalamine deficiencies)",
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "G6PD(P)",
+        "Severe Combined Immunodeficiencies(P)",
+        "Spinal muscular atrophy(P)",
+        "Cystic fibrosis"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["31"],
+      "Detail": ["The country NBS program is covered by Italy"]
+    },
+    {
+      "icon": "🇷🇸",
+      "name": "Serbia",
+      "abbr": "RS",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": ["Propionic acidaemia"],
+      "fattyAcid": [""],
+      "miscellaneous": ["Cystic fibrosis"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["4"],
+      "Detail": []
+    },
+    {
+      "icon": "🇸🇰",
+      "name": "Slovakia",
+      "abbr": "SK",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2",
+        "Citrullinaemia type I/II",
+        "Argininemia",
+        "MAT I/III"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "3-Methylcrotonyl-CoA carboxylase deficiency/3-Methylglutacon aciduria/2-methyl-3-OH-butyric aciduria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "Beta-ketothiolase deficiency",
+        "3-Hydroxy-3-methylglutaric aciduria"
+      ],
+      "fattyAcid": [
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Short-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": [
+        "Severe Combined Immunodeficiencies",
+        "Spinal muscular atrophy(P)",
+        "Cystic fibrosis"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["25"],
+      "Detail": []
+    },
+    {
+      "icon": "🇸🇮",
+      "name": "Slovenia",
+      "abbr": "SI",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Tyrosinaemia type 1",
+        "Tyrosinaemia type 2",
+        "Citrullinaemia type I/II",
+        "Argininemia",
+        "MAT I/III"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "3-Methylcrotonyl-CoA carboxylase deficiency/3-Methylglutacon aciduria/2-methyl-3-OH-butyric aciduria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "Beta-ketothiolase deficiency",
+        "Holocarboxylase synthetase deficiency",
+        "3-Hydroxy-3-methylglutaric aciduria"
+      ],
+      "fattyAcid": [
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine acylcarnitine translocase deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": ["xALD(P)"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["19"],
+      "Detail": []
+    },
+    {
+      "icon": "🇪🇸",
+      "name": "Spain",
+      "abbr": "ES",
+      "endocrine": ["Primary congenital hypothyroidism", "CAH(P)"],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "MSUD(P)",
+        "HCY(P)",
+        "Tyr-1(P)",
+        "Tyr-2(P)",
+        "ASA(P)",
+        "Cit.1/2(P)",
+        "ARG(P)"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "IVA(P)",
+        "3MCC(P)",
+        "PA(P)",
+        "MMA(P)",
+        "BKT(P)",
+        "HCSD(P)",
+        "3HMG(P)",
+        "MCD(P)"
+      ],
+      "fattyAcid": [
+        "GA2(P)",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "VLCAD(P)",
+        "SCAD(P)",
+        "CPT1(P)",
+        "CPT2(P)",
+        "CUD(P)"
+      ],
+      "miscellaneous": [
+        "RMD(P)",
+        "GAL(P)",
+        "BIOT(P)",
+        "Severe Combined Immunodeficiencies(P)",
+        "Cystic fibrosis"
+      ],
+      "Hemo": ["Sickle cell disease/thalassemia"],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["7"],
+      "Detail": ["(P)= Pilot/Regional screening"]
+    },
+    {
+      "icon": "🇸🇪",
+      "name": "Sweden",
+      "abbr": "SE",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)",
+        "Tyrosinaemia type 1",
+        "Argininosuccinic aciduria",
+        "Citrullinaemia type I/II",
+        "Argininemia"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "Propionic acidaemia",
+        "Methylmalonic acidaemia",
+        "Beta-ketothiolase deficiency"
+      ],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency",
+        "Carnitine uptake defect"
+      ],
+      "miscellaneous": [
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "Severe Combined Immunodeficiencies"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["25"],
+      "Detail": []
+    },
+    {
+      "icon": "🇨🇭",
+      "name": "Switzerland",
+      "abbr": "Primary congenital hypothyroidism",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classic phenylketonuria", "Maple Syrup Urine Disease"],
+      "organicAcid": ["Glutaric acidaemia type I"],
+      "fattyAcid": ["Medium-chain acyl-CoA dehydrogenase deficiency"],
+      "miscellaneous": [
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "Severe Combined Immunodeficiencies",
+        "Cystic fibrosis"
+      ],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["10"],
+      "Detail": []
+    },
+    {
+      "icon": "🇹🇭",
+      "name": "Thailand",
+      "abbr": "TH",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["2"],
+      "Detail": []
+    },
+    {
+      "icon": "🇹🇷",
+      "name": "Turkey",
+      "abbr": "TR",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": ["Biotinidase deficiency", "Cystic fibrosis"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["5"],
+      "Detail": []
+    },
+    {
+      "icon": "🇹🇲",
+      "name": "Turkmenistan",
+      "abbr": "TM",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": ["Classical galactosaemia", "G6PD", "Cystic fibrosis"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["6"],
+      "Detail": []
+    },
+    {
+      "icon": "🇺🇦",
+      "name": "Ukraine",
+      "abbr": "UA",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [
+        "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency",
+        "MCAD(P)",
+        "LCHAD/TFP(P)",
+        "VLCAD(P)",
+        "CPT1(P)",
+        "CPT2(P)",
+        "CACT(P)",
+        "CUD(P)"
+      ],
+      "miscellaneous": ["GAL(P)", "BIOT(P)"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["4"],
+      "Detail": ["(P)= Pilot/Regional screening"]
+    },
+    {
+      "icon": "🇺🇿",
+      "name": "Uzbekistan",
+      "abbr": "UZ",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "MSUD(P)",
+        "HCY(P)",
+        "Tyr-1(P)",
+        "ASA(P)",
+        "Cit.1/2(P)",
+        "ARG(P)"
+      ],
+      "organicAcid": ["GA1(P)", "IVA(P)", "3MCC(P)", "PA(P)", "MMA(P)"],
+      "fattyAcid": [
+        "MCAD(P)",
+        "LCHAD/TFP(P)",
+        "VLCAD(P)",
+        "CPT1(P)",
+        "CPT2(P)",
+        "CUD(P)"
+      ],
+      "miscellaneous": ["BIOT(P)", "CF(P)"],
+      "Hemo": [""],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["2"],
+      "Detail": ["(P)= Pilot/Regional screening"]
+    },
+    {
+      "icon": "🇬🇧",
+      "name": "United Kingdom",
+      "abbr": "GB",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria (CBS deficiency)"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria"
+      ],
+      "fattyAcid": ["Medium-chain acyl-CoA dehydrogenase deficiency"],
+      "miscellaneous": ["Cystic fibrosis"],
+      "Hemo": ["Sickle cell disease/thalassemia"],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "CountTest": ["9"],
+      "Detail": []
+    },
+    {
+      "icon": "🇺🇾",
+      "name": "Uruguay",
+      "abbr": "UY",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["7"],
+      "Detail": []
+    },
+    {
+      "icon": "🇻🇪",
+      "name": "Venezuela",
+      "abbr": "VE",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["2"],
+      "Detail": []
+    },
+    {
+      "icon": "🇺🇲",
+      "name": "United States",
+      "abbr": "US",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["22"],
+      "Detail": [
+        "Because of each state has its own policy, the data only represents common practice"
+      ]
+    },
+    {
+      "icon": "🇨🇦",
+      "name": "Canada",
+      "abbr": "CA",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": ["Current status of newborn screening worldwide: 2015"],
+      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "CountTest": ["10"],
+      "Detail": [
+        "Because of each state has its own policy, the data only represents common practice"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.main {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: #dfe6e9;
+  max-width: 1380px !important;
+  margin: auto;
+}
+
+.bannerContainer {
+  display: flex;
+}

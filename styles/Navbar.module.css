@@ -1,0 +1,35 @@
+.container {
+  max-width: 1380px !important;
+  margin: auto;
+}
+
+.subContainer {
+  padding: 20px;
+  align-items: center;
+}
+
+.logoContainer {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.searchbar {
+  height: 44px;
+  border: 0.8px solid gray;
+  border-radius: 28px;
+  width: 400px;
+}
+
+.menuContainer {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  justify-content: space-between;
+  min-width: 100%;
+}
+
+.hamburgerContainer {
+  display: flex;
+  align-items: center;
+}
