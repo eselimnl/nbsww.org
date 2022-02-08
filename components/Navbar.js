@@ -24,7 +24,7 @@ import MenuIcon from "@mui/icons-material/Menu";
 import { useRouter } from "next/router";
 import Image from "next/image";
 import SearchIcon from "@mui/icons-material/Search";
-import image from "../public/Logo.svg";
+import image from "../public/LOGO.svg";
 
 import styles from "../styles/Navbar.module.css";
 
