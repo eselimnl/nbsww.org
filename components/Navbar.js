@@ -57,14 +57,13 @@ const Navbar = () => {
       onKeyDown={toggleDrawer(anchor, false)}
     >
       <List>
-        {["World Map", "Filter Table", "Share Data", "About"].map(
-          (text, index) => (
-            <ListItem button key={text}>
-              <ListItemIcon></ListItemIcon>
-              <ListItemText primary={text} />
-            </ListItem>
-          )
-        )}
+        {menu.map((val) => (
+          <ListItem>
+            <Link key={val.id} href={val.link}>
+              <Button variant="text">{val.name}</Button>
+            </Link>
+          </ListItem>
+        ))}
       </List>
       <Divider />
     </Box>
