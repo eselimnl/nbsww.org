@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
-
+import * as ga from "../lib/ga";
 import { useState } from "react";
 
 import {
@@ -23,7 +23,6 @@ import MenuIcon from "@mui/icons-material/Menu";
 
 import { useRouter } from "next/router";
 import Image from "next/image";
-import SearchIcon from "@mui/icons-material/Search";
 import image from "../public/LOGO.svg";
 
 import styles from "../styles/Navbar.module.css";
@@ -32,7 +31,15 @@ import countries from "./dataset_summary";
 
 const Navbar = () => {
   const router = useRouter();
-
+  const [query, setQuery] = useState("");
+  const search = () => {
+    ga.event({
+      action: "search",
+      params: {
+        search_term: query,
+      },
+    });
+  };
   const [state, setState] = useState({
     right: false,
   });
@@ -60,7 +67,13 @@ const Navbar = () => {
         {menu.map((val) => (
           <ListItem>
             <Link key={val.id} href={val.link}>
-              <Button variant="text">{val.name}</Button>
+              <Button
+                onClick={() => search()}
+                variant="text"
+                onChange={(event) => setQuery(event.target.value)}
+              >
+                {val.name}
+              </Button>
             </Link>
           </ListItem>
         ))}
@@ -185,7 +198,13 @@ const Navbar = () => {
           <Box className={styles.menuContainer}>
             {menu.map((val) => (
               <Link key={val.id} href={val.link}>
-                <Button variant="text">{val.name}</Button>
+                <Button
+                  onClick={() => search()}
+                  variant="text"
+                  onChange={(event) => setQuery(event.target.value)}
+                >
+                  {val.name}
+                </Button>
               </Link>
             ))}
           </Box>
