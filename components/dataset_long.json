@@ -1,6 +1,47 @@
 {
   "countries": [
     {
+      "icon": "🇪🇬",
+      "name": "Egypt",
+      "abbr": "EG",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Tyrosinaemia type 1",
+        "Classical galactosaemia",
+        "Homocystinuria",
+        "Citrullinaemia type I/II"
+      ],
+      "organicAcid": [
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "Propionic acidaemia"
+      ],
+      "fattyAcid": [
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Argininemia"
+      ],
+      "miscellaneous": [
+        "Cystic fibrosis",
+        "Deficiency of the carbamoyl ornithine transporter",
+        "Hereditary Hyperlipidemia",
+        "Tetrahydropytrine deficiency",
+        "Biotinidase deficiency"
+      ],
+      "Hemo": ["Sickle cell disease/thalassemia"],
+      "source": ["Private news channel"],
+      "url": [
+        "https://www.egypttoday.com/Article/1/108942/Egypt-launches-2nd-phase-of-screening-newborns-for-genetic-disorders"
+      ],
+      "CountTest": ["19"],
+      "Detail": [
+        "Source of this data is not reliable and requires a validation."
+      ]
+    },
+    {
       "icon": "🇦🇩",
       "name": "Andorra",
       "abbr": "AD",
@@ -19,6 +60,193 @@
       "url": ["https://doi.org/10.3390/ijns7010015"],
       "CountTest": ["6"],
       "Detail": ["The country NBS program is covered by France"]
+    },    
+	{
+      "icon": "🇵🇰",
+      "name": "Pakistan",
+      "abbr": "PK",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Biochemical Screening of Intellectually Disabled Patients: A Stepping Stone to Initiate a Newborn Screening Program in Pakistan"
+      ],
+      "url": ["https://doi.org/10.3389/fneur.2019.00762"],
+      "CountTest": ["0"],
+      "Detail": [""]
+    },
+    {
+      "icon": "🇦🇴",
+      "name": "Angola",
+      "abbr": "AO",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Empowering Newborn Screening Programs in African Countries through Establishment of an International Collaborative Effort"
+      ],
+      "url": ["https://dx.doi.org/10.1007%2Fs12687-020-00463-7"],
+      "CountTest": ["0"],
+      "Detail": [""]
+    },
+    {
+      "icon": "🇧🇯",
+      "name": "Benin",
+      "abbr": "BJ",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": ["Sickle cell disease(R)"],
+      "source": [
+        "Empowering Newborn Screening Programs in African Countries through Establishment of an International Collaborative Effort"
+      ],
+      "url": ["https://dx.doi.org/10.1007%2Fs12687-020-00463-7"],
+      "CountTest": ["0"],
+      "Detail": [""]
+    },
+    {
+      "icon": "🇨🇩",
+      "name": "Congo, Democratic Republic of the",
+      "abbr": "CG",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Empowering Newborn Screening Programs in African Countries through Establishment of an International Collaborative Effort"
+      ],
+      "url": ["https://dx.doi.org/10.1007%2Fs12687-020-00463-7"],
+      "CountTest": ["0"],
+      "Detail": [""]
+    },
+    {
+      "icon": "🇬🇭",
+      "name": "Ghana",
+      "abbr": "GH",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": ["Sickle cell disease"],
+      "source": [
+        "Empowering Newborn Screening Programs in African Countries through Establishment of an International Collaborative Effort"
+      ],
+      "url": ["https://dx.doi.org/10.1007%2Fs12687-020-00463-7"],
+      "CountTest": ["1"],
+      "Detail": [""]
+    },
+    {
+      "icon": "🇲🇼",
+      "name": "Malawi",
+      "abbr": "MW",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Empowering Newborn Screening Programs in African Countries through Establishment of an International Collaborative Effort"
+      ],
+      "url": ["https://dx.doi.org/10.1007%2Fs12687-020-00463-7"],
+      "CountTest": ["0"],
+      "Detail": [""]
+    },
+    {
+      "icon": "🇲🇱",
+      "name": "Mali",
+      "abbr": "ML",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Empowering Newborn Screening Programs in African Countries through Establishment of an International Collaborative Effort"
+      ],
+      "url": ["https://dx.doi.org/10.1007%2Fs12687-020-00463-7"],
+      "CountTest": ["0"],
+      "Detail": [""]
+    },
+    {
+      "icon": "🇲🇦",
+      "name": "Morocco",
+      "abbr": "MA",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Empowering Newborn Screening Programs in African Countries through Establishment of an International Collaborative Effort"
+      ],
+      "url": ["https://dx.doi.org/10.1007%2Fs12687-020-00463-7"],
+      "CountTest": ["0"],
+      "Detail": [""]
+    },
+    {
+      "icon": "🇳🇬",
+      "name": "Nigeria",
+      "abbr": "NG",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Empowering Newborn Screening Programs in African Countries through Establishment of an International Collaborative Effort"
+      ],
+      "url": ["https://dx.doi.org/10.1007%2Fs12687-020-00463-7"],
+      "CountTest": ["0"],
+      "Detail": [""]
+    },
+    {
+      "icon": "🇹🇿",
+      "name": "United Republic of Tanzania",
+      "abbr": "TZ",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Empowering Newborn Screening Programs in African Countries through Establishment of an International Collaborative Effort"
+      ],
+      "url": ["https://dx.doi.org/10.1007%2Fs12687-020-00463-7"],
+      "CountTest": ["0"],
+      "Detail": [""]
+    },
+    {
+      "icon": "🇺🇬",
+      "name": "Uganda",
+      "abbr": "UG",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Empowering Newborn Screening Programs in African Countries through Establishment of an International Collaborative Effort"
+      ],
+      "url": ["https://dx.doi.org/10.1007%2Fs12687-020-00463-7"],
+      "CountTest": ["0"],
+      "Detail": [""]
     },
     {
       "icon": "🇦🇱",
@@ -35,21 +263,30 @@
       ],
       "url": ["https://doi.org/10.3390/ijns7010015"],
       "CountTest": ["0"],
-      "Detail": ["no data"]
+      "Detail": [""]
     },
     {
       "icon": "🇦🇷",
       "name": "Argentina",
       "abbr": "AR",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classical Phenylketonuria",
+        "Classical galactosaemia",
+        "Maple Syrup Urine Disease"
+      ],
       "organicAcid": [""],
       "fattyAcid": [""],
-      "miscellaneous": [""],
+      "miscellaneous": ["Cystic fibrosis", "Biotinidase deficiency"],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["10"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
+      "CountTest": ["7"],
       "Detail": []
     },
     {
@@ -208,8 +445,10 @@
       "fattyAcid": [""],
       "miscellaneous": [""],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "source": [
+        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      ],
+      "url": ["https://doi.org/10.3390/ijns7010015"],
       "CountTest": ["2"],
       "Detail": []
     },
@@ -258,15 +497,20 @@
       "icon": "🇧🇴",
       "name": "Bolivia",
       "abbr": "BO",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": [
+        "Congenital adrenal hyperplasia",
+        "Primary congenital hypothyroidism"
+      ],
+      "aminoacid": ["Classical Phenylketonuria"],
       "organicAcid": [""],
       "fattyAcid": [""],
-      "miscellaneous": [""],
+      "miscellaneous": ["Cystic fibrosis"],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["1"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
+      "CountTest": ["4"],
       "Detail": []
     },
     {
@@ -290,14 +534,23 @@
       "icon": "🇧🇷",
       "name": "Brazil",
       "abbr": "BR",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": [
+        "Congenital adrenal hyperplasia",
+        "Primary congenital hypothyroidism"
+      ],
+      "aminoacid": ["Classical phenylketonuria"],
       "organicAcid": [""],
       "fattyAcid": [""],
-      "miscellaneous": [""],
-      "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "miscellaneous": [
+        "Biotinidase deficiency",
+        "Cystic fibrosis",
+        "Severe Combined Immunodeficiencies"
+      ],
+      "Hemo": ["Sickle cell disease/thalassemia"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
       "CountTest": ["7"],
       "Detail": []
     },
@@ -385,29 +638,31 @@
       "icon": "🇨🇳",
       "name": "China",
       "abbr": "CN",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": ["Congenital hypothyroidism"],
+      "aminoacid": ["Classical phenylketonuria"],
       "organicAcid": [""],
       "fattyAcid": [""],
-      "miscellaneous": [""],
-      "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["3"],
+      "miscellaneous": ["G6PD(R)"],
+      "Hemo": ["Sickle cell disease/Thalassemia(R)"],
+      "source": ["Universal newborn screening: A roadmap for action"],
+      "url": ["https://doi.org/10.1016/j.ymgme.2018.04.009"],
+      "CountTest": ["2"],
       "Detail": []
     },
     {
       "icon": "🇨🇴",
       "name": "Colombia",
       "abbr": "CO",
-      "endocrine": [""],
+      "endocrine": ["Primary congenital hypothyroidism"],
       "aminoacid": [""],
       "organicAcid": [""],
       "fattyAcid": [""],
       "miscellaneous": [""],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
       "CountTest": ["1"],
       "Detail": []
     },
@@ -415,15 +670,24 @@
       "icon": "🇨🇷",
       "name": "Costa Rica",
       "abbr": "CR",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classical Phenylketonuria",
+        "Classical galactosaemia",
+        "Maple Syrup Urine Disease"
+      ],
       "organicAcid": [""],
       "fattyAcid": [""],
       "miscellaneous": [""],
-      "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["31"],
+      "Hemo": ["Sickle cell disease/thalassemia"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
+      "CountTest": ["24"],
       "Detail": []
     },
     {
@@ -455,15 +719,37 @@
       "icon": "🇨🇺",
       "name": "Cuba",
       "abbr": "CU",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classical Phenylketonuria", "Classical galactosaemia"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": ["Cystic fibrosis", "Biotinidase deficiency"],
+      "Hemo": [""],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
+      "CountTest": ["6"],
+      "Detail": []
+    },
+    {
+      "icon": "🇨🇱",
+      "name": "Chile",
+      "abbr": "CL",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": ["Classical Phenylketonuria"],
       "organicAcid": [""],
       "fattyAcid": [""],
       "miscellaneous": [""],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["5"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
+      "CountTest": ["2"],
       "Detail": []
     },
     {
@@ -575,8 +861,10 @@
       "fattyAcid": [""],
       "miscellaneous": [""],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
       "CountTest": ["0"],
       "Detail": []
     },
@@ -584,14 +872,39 @@
       "icon": "🇪🇨",
       "name": "Ecuador",
       "abbr": "EC",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": [
+        "Congenital adrenal hyperplasia",
+        "Primary congenital hypothyroidism"
+      ],
+      "aminoacid": ["Classical Phenylketonuria", "Classical galactosaemia"],
       "organicAcid": [""],
       "fattyAcid": [""],
       "miscellaneous": [""],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
+      "CountTest": ["4"],
+      "Detail": []
+    },
+    {
+      "icon": "🇵🇪",
+      "name": "Peru",
+      "abbr": "PE",
+      "endocrine": [
+        "Congenital adrenal hyperplasia",
+        "Primary congenital hypothyroidism"
+      ],
+      "aminoacid": ["Classical Phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": ["Cystic fibrosis"],
+      "Hemo": [""],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
       "CountTest": ["4"],
       "Detail": []
     },
@@ -788,15 +1101,20 @@
       "icon": "🇬🇹",
       "name": "Guatemala",
       "abbr": "GT",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classical Phenylketonuria", "Classical galactosaemia"],
       "organicAcid": [""],
       "fattyAcid": [""],
-      "miscellaneous": [""],
+      "miscellaneous": ["Cystic fibrosis"],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["1"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
+      "CountTest": ["5"],
       "Detail": []
     },
     {
@@ -809,8 +1127,10 @@
       "fattyAcid": [""],
       "miscellaneous": [""],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
       "CountTest": ["0"],
       "Detail": []
     },
@@ -818,14 +1138,22 @@
       "icon": "🇭🇳",
       "name": "Honduras",
       "abbr": "HN",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": [
+        "Primary congenital hypothyroidism(R)",
+        "Congenital adrenal hyperplasia(R)"
+      ],
+      "aminoacid": [
+        "Classical Phenylketonuria(R)",
+        "Classical galactosaemia(R)"
+      ],
       "organicAcid": [""],
       "fattyAcid": [""],
-      "miscellaneous": [""],
+      "miscellaneous": ["Cystic fibrosis(R)"],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
       "CountTest": ["0"],
       "Detail": []
     },
@@ -886,8 +1214,8 @@
       "fattyAcid": [""],
       "miscellaneous": [""],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "source": ["Universal newborn screening: A roadmap for action"],
+      "url": ["https://doi.org/10.1016/j.ymgme.2018.04.009"],
       "CountTest": ["0"],
       "Detail": []
     },
@@ -895,14 +1223,19 @@
       "icon": "🇮🇩",
       "name": "Indonesia",
       "abbr": "ID",
-      "endocrine": [""],
+      "endocrine": [
+        "Congenital Hypothyroidism(P)",
+        "Congenital Adrenal Hyperplasia(P)"
+      ],
       "aminoacid": [""],
       "organicAcid": [""],
       "fattyAcid": [""],
       "miscellaneous": [""],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
+      "source": [
+        "Preliminary Study of Newborn Screening for Congenital Hypothyroidism and Congenital Adrenal Hyperplasia in Indonesia"
+      ],
+      "url": ["https://doi.org/10.23886/ejki.8.11611."],
       "CountTest": ["0"],
       "Detail": []
     },
@@ -1084,17 +1417,25 @@
       "icon": "🇯🇵",
       "name": "Japan",
       "abbr": "JP",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": [
+        "Congenital Hypothyroidism",
+        "Congenital Adrenal Hyperplasia"
+      ],
+      "aminoacid": [
+        "Classical phenylketonuria",
+        "Homocystinuria (CBS deficiency)",
+        "Propionic acidaemia",
+        "Maple Syrup Urine Disease"
+      ],
       "organicAcid": [""],
       "fattyAcid": [""],
-      "miscellaneous": [""],
-      "Hemo": [""],
-      "source": [
-        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
+      "miscellaneous": [
+        "Remethylation disorders (methylenetetrahydrofolate reductase, methylcobalamine deficiencies)"
       ],
-      "url": ["https://doi.org/10.3390/ijns7010015"],
-      "CountTest": ["28"],
+      "Hemo": [""],
+      "source": ["Newborn Screening in Japan—2021"],
+      "url": ["https://doi.org/10.3390/ijns8010003"],
+      "CountTest": ["20"],
       "Detail": []
     },
     {
@@ -1211,6 +1552,7 @@
       "Detail": ["The country NBS program is covered by Switzerland"]
     },
     {
+      "icon": "🇱🇹",
       "abbr": "LTU",
       "name": "Lithuania",
       "endocrine": [
@@ -1297,11 +1639,11 @@
       "icon": "🇲🇾",
       "name": "Malaysia",
       "abbr": "MY",
-      "endocrine": [""],
+      "endocrine": ["Primary congenital hypothyroidism"],
       "aminoacid": [""],
       "organicAcid": [""],
       "fattyAcid": [""],
-      "miscellaneous": [""],
+      "miscellaneous": ["G6PD"],
       "Hemo": [""],
       "source": ["Current status of newborn screening worldwide: 2015"],
       "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
@@ -1313,31 +1655,34 @@
       "name": "Malta",
       "abbr": "MT",
       "endocrine": ["Primary congenital hypothyroidism"],
-      "aminoacid": ["Classic phenylketonuria"],
+      "aminoacid": [""],
       "organicAcid": [""],
       "fattyAcid": [""],
       "miscellaneous": [""],
       "Hemo": ["Sickle cell disease/thalassemia"],
-      "source": [
-        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
-      ],
-      "url": ["https://doi.org/10.3390/ijns7010015"],
-      "CountTest": ["3"],
+      "source": ["Current Status of Newborn Screening in Southeastern Europe"],
+      "url": ["https://doi.org/10.3389/fped.2021.648939"],
+      "CountTest": ["2"],
       "Detail": []
     },
     {
       "icon": "🇲🇽",
       "name": "Mexico",
       "abbr": "MX",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classical Phenylketonuria", "Classical galactosaemia"],
       "organicAcid": [""],
       "fattyAcid": [""],
-      "miscellaneous": [""],
+      "miscellaneous": ["Cystic fibrosis", "Biotinidase deficiency", "G6PD"],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["5"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
+      "CountTest": ["7"],
       "Detail": []
     },
     {
@@ -1385,12 +1730,10 @@
       "aminoacid": [""],
       "organicAcid": [""],
       "fattyAcid": [""],
-      "miscellaneous": ["Cystic fibrosis"],
+      "miscellaneous": [""],
       "Hemo": [""],
-      "source": [
-        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
-      ],
-      "url": ["https://doi.org/10.3390/ijns7010015"],
+      "source": ["Current Status of Newborn Screening in Southeastern Europe"],
+      "url": ["https://doi.org/10.3389/fped.2021.648939"],
       "CountTest": ["1"],
       "Detail": []
     },
@@ -1462,9 +1805,11 @@
       "fattyAcid": [""],
       "miscellaneous": [""],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["1"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
+      "CountTest": ["0"],
       "Detail": []
     },
     {
@@ -1530,46 +1875,75 @@
     {
       "icon": "🇵🇦",
       "name": "Panama",
-      "abbr": "Propionic acidaemia",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "abbr": "PA",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classical Phenylketonuria", "Classical galactosaemia"],
       "organicAcid": [""],
       "fattyAcid": [""],
-      "miscellaneous": [""],
-      "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["8"],
+      "miscellaneous": ["G6PD", "Cystic fibrosis"],
+      "Hemo": ["Sickle cell disease/thalassemia"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
+      "CountTest": ["7"],
       "Detail": []
     },
     {
       "icon": "🇵🇾",
       "name": "Paraguay",
       "abbr": "PY",
-      "endocrine": [""],
+      "endocrine": [
+        "Congenital adrenal hyperplasia",
+        "Primary congenital hypothyroidism"
+      ],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": ["Cystic fibrosis"],
+      "Hemo": [""],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
+      "CountTest": ["3"],
+      "Detail": []
+    },
+    {
+      "icon": "🇸🇻",
+      "name": "El Salvador",
+      "abbr": "SV",
+      "endocrine": ["Primary congenital hypothyroidism(R)"],
       "aminoacid": [""],
       "organicAcid": [""],
       "fattyAcid": [""],
       "miscellaneous": [""],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["3"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
+      "CountTest": ["0"],
       "Detail": []
     },
     {
       "icon": "🇵🇭",
       "name": "Philippines",
       "abbr": "PH",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": ["Congenital adrenal hyperplasia"],
+      "aminoacid": ["Classic phenylketonuria", "Maple Syrup Urine Disease"],
       "organicAcid": [""],
-      "fattyAcid": [""],
-      "miscellaneous": [""],
+      "fattyAcid": [],
+      "miscellaneous": ["Classical galactosaemia", "G6PD"],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["6"],
+      "source": [
+        "Philippine Performance Evaluation and Assessment Scheme (PPEAS): Experiences in Newborn Screening System Quality Improvement"
+      ],
+      "url": ["https://doi.org/10.3390/ijns6040095"],
+      "CountTest": ["29"],
       "Detail": []
     },
     {
@@ -1669,15 +2043,150 @@
       "icon": "🇶🇦",
       "name": "Qatar",
       "abbr": "QA",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Hyperphenylalaninaemia",
+        "Defects of biopterin cofactor biosynthesis",
+        "Maple Syrup Urine Disease",
+        "Homocystinuria",
+        "Tyrosinaemia type 1",
+        "Citrullinaemia type I/II",
+        "Argininosuccinic aciduria"
+      ],
+      "organicAcid": [
+        "Methylmalonic acidaemia",
+        "Propionic acidaemia",
+        "Glutaric acidaemia type I",
+        "Isovaleric acidaemia",
+        "3-Methylglutacon aciduria",
+        "multiple acyl-coA dehydrogenase",
+        "isobutyryl-CoA dehydrogenase"
+      ],
+      "fattyAcid": [
+        "Medium-chain acyl-CoA dehydrogenase",
+        "Very long-chain acyl-CoA dehydrogenase",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency/ Trifunctional :protein deficiency",
+        "Short-chain acyl-CoA dehydrogenase",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase deficiency type II",
+        "3-Hydroxy-3-methylglutaric aciduria",
+        "Beta-ketothiolase deficiency"
+      ],
+      "miscellaneous": ["Classical galactosaemia", "Biotinidase deficiency"],
+      "Hemo": [""],
+      "source": [
+        "Implementation of extended neonatal screening and a metabolic unit in the State of Qatar: Developing and optimizing strategies in cooperation with the Neonatal Screening Center in Heidelberg"
+      ],
+      "url": ["http://dx.doi.org/10.1007/s10545-007-0553-7"],
+      "CountTest": ["28"],
+      "Detail": []
+    },
+    {
+      "icon": "🇸🇬",
+      "name": "Singapore",
+      "abbr": "SG",
+      "endocrine": [
+        "Congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Amino Acid Disorders"],
+      "organicAcid": ["Organic Acid Disorders"],
+      "fattyAcid": ["Fatty Acid Disorders"],
+      "miscellaneous": [
+        "Classical galactosaemia",
+        "Biotinidase deficiency",
+        "Severe Combined Immunodeficiencies",
+        "Cystic fibrosis"
+      ],
+      "Hemo": [""],
+      "source": [""],
+      "url": [
+        "https://www.nuh.com.sg/our-services/Specialties/Paediatrics/Documents/NUH_Hello%20Baby.pdf"
+      ],
+      "CountTest": ["35"],
+      "Detail": []
+    },
+    {
+      "icon": "🇮🇷",
+      "name": "Iran, Islamic Republic of",
+      "abbr": "IR",
+      "endocrine": ["Congenital hypothyroidism"],
+      "aminoacid": ["Classic phenylketonuria"],
       "organicAcid": [""],
       "fattyAcid": [""],
-      "miscellaneous": [""],
+      "miscellaneous": ["G6PD"],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["43"],
+      "source": [
+        "Newborn screening data management: proposing a framework for Iran"
+      ],
+      "url": ["http://dx.doi.org/10.14236/jhi.v25i4.985"],
+      "CountTest": ["3"],
+      "Detail": []
+    },
+    {
+      "icon": "🇮🇶",
+      "name": "Iraq",
+      "abbr": "IQ",
+      "endocrine": ["Congenital hypothyroidism"],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": ["Classical galactosaemia"],
+      "Hemo": [""],
+      "source": [
+        "National Guideline of Newborn Screening for Care Providers in Priamry Health Care Centers in Iraq"
+      ],
+      "url": ["https://pdf.usaid.gov/pdf_docs/PA00KBT5.pdf"],
+      "CountTest": ["3"],
+      "Detail": []
+    },
+    {
+      "icon": "🇹🇼",
+      "name": "Taiwan, Province of China",
+      "abbr": "TW",
+      "endocrine": [
+        "Congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Hyperammonemia, Hyperornithinemia, homocitrullinuria syndrome",
+        "Maple Syrup Urine Disease",
+        "Tyrosinaemia type 2/3",
+        "Citrullinaemia type I/II",
+        "Argininosuccinic aciduria",
+        "Hypermethionemia",
+        "Argininemia"
+      ],
+      "organicAcid": [
+        "Methylmalonic acidaemia",
+        "Propionic acidaemia",
+        "Glutaric acidaemia type I/2",
+        "Isovaleric acidaemia",
+        "3-Methylglutacon aciduria"
+      ],
+      "fattyAcid": [
+        "Medium-chain acyl-CoA dehydrogenase",
+        "Very long-chain acyl-CoA dehydrogenase",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency/ Trifunctional :protein deficiency",
+        "Short-chain acyl-CoA dehydrogenase",
+        "Carnitine palmitoyltransferase deficiency type I",
+        "Carnitine palmitoyltransferase deficiency type II",
+        "Carnitine acylcarnitine translocase deficiency",
+        "3-Hydroxy-3-methylglutaric aciduria",
+        "Beta-ketothiolase deficiency"
+      ],
+      "miscellaneous": ["Classical galactosaemia", "Biotinidase deficiency"],
+      "Hemo": [""],
+      "source": [
+        "National Taiwan University Hospital Department of Medical Genetics"
+      ],
+      "url": ["https://www.ntuh.gov.tw/gene/Fpage.action?muid=911&fid=768"],
+      "CountTest": ["24"],
       "Detail": []
     },
     {
@@ -1685,20 +2194,14 @@
       "name": "Romania",
       "abbr": "RO",
       "endocrine": ["Primary congenital hypothyroidism"],
-      "aminoacid": [
-        "Classic phenylketonuria",
-        "Tyrosinaemia type 1",
-        "Tyrosinaemia type 2"
-      ],
+      "aminoacid": ["Classic phenylketonuria"],
       "organicAcid": [""],
       "fattyAcid": [""],
       "miscellaneous": [""],
       "Hemo": [""],
-      "source": [
-        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
-      ],
-      "url": ["https://doi.org/10.3390/ijns7010015"],
-      "CountTest": ["4"],
+      "source": ["Current Status of Newborn Screening in Southeastern Europe"],
+      "url": ["https://doi.org/10.3389/fped.2021.648939"],
+      "CountTest": ["2"],
       "Detail": []
     },
     {
@@ -1784,16 +2287,14 @@
       "name": "Serbia",
       "abbr": "RS",
       "endocrine": ["Primary congenital hypothyroidism"],
-      "aminoacid": ["Classic phenylketonuria"],
-      "organicAcid": ["Propionic acidaemia"],
+      "aminoacid": ["Classical phenylketonuria"],
+      "organicAcid": [""],
       "fattyAcid": [""],
-      "miscellaneous": ["Cystic fibrosis"],
+      "miscellaneous": [""],
       "Hemo": [""],
-      "source": [
-        "Neonatal Screening in Europe Revisited: An ISNS Perspective on the Current State and Developments Since 2010"
-      ],
-      "url": ["https://doi.org/10.3390/ijns7010015"],
-      "CountTest": ["4"],
+      "source": ["Current Status of Newborn Screening in Southeastern Europe"],
+      "url": ["https://doi.org/10.3389/fped.2021.648939"],
+      "CountTest": ["2"],
       "Detail": []
     },
     {
@@ -2150,15 +2651,20 @@
       "icon": "🇺🇾",
       "name": "Uruguay",
       "abbr": "UY",
-      "endocrine": [""],
-      "aminoacid": [""],
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": ["Classical Phenylketonuria", "Maple Syrup Urine Disease"],
       "organicAcid": [""],
       "fattyAcid": [""],
       "miscellaneous": [""],
-      "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["7"],
+      "Hemo": ["Sickle cell disease/thalassemia"],
+      "source": [
+        "Newborn screening in Latin America: A brief overview of thestate of the art"
+      ],
+      "url": ["https://doi.org/10.1002/ajmg.c.31899"],
+      "CountTest": ["23"],
       "Detail": []
     },
     {
@@ -2180,35 +2686,146 @@
       "icon": "🇺🇲",
       "name": "United States",
       "abbr": "US",
+      "endocrine": [
+        "Congenital adrenal hyperplasia",
+        "Congenital hypothyroidism"
+      ],
+      "aminoacid": [
+        "Argininosuccinic aciduria",
+        "Citrullinaemia type I",
+        "Citrullinaemia type II",
+        "Classical phenylketonuria",
+        "Homocystinuria",
+        "Maple Syrup Urine Disease",
+        "Tyrosinaemia type 1"
+      ],
+      "organicAcid": [
+        "3-Hydroxy-3-methylglutaric aciduria",
+        "Beta-ketothiolase deficiency",
+        "Glutaric acidaemia type I",
+        "Holocarboxylase synthetase deficiency",
+        "Isovaleric acidaemia",
+        "Methylmalonic acidaemia",
+        "Propionic acidaemia"
+      ],
+      "fattyAcid": [
+        "Carnitine uptake defect",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency",
+        "Trifunctional protein deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency"
+      ],
+      "miscellaneous": [
+        "Biotinidase deficiency",
+        "Classical galactosaemia",
+        "Cystic fibrosis",
+        "Severe Combined Immunodeficiencies",
+        "Adrenoleukodystrophy",
+        "Lysosomal Storage Disorders",
+        "Mucopolysaccharidosis Type-I",
+        "Spinal Muscular Atrophy"
+      ],
+      "Hemo": ["Sickle cell disease/thalassemia"],
+      "source": [
+        "Baby's First Test - The nation's newborn screening education resource center"
+      ],
+      "url": [
+        "https://www.babysfirsttest.org/newborn-screening/states/washington"
+      ],
+      "CountTest": ["30"],
+      "Detail": [
+        "Newborn screening panels remain non-uniform across United States. NBSww only shows the state of Washington's NBS program. To get to know state-specific program and more, visit the source."
+      ]
+    },
+    {
+      "icon": "🇽🇰",
+      "name": "Kosovo",
+      "abbr": "XK",
       "endocrine": [""],
       "aminoacid": [""],
       "organicAcid": [""],
       "fattyAcid": [""],
       "miscellaneous": [""],
       "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["22"],
-      "Detail": [
-        "Because of each state has its own policy, the data only represents common practice"
-      ]
+      "source": ["Current Status of Newborn Screening in Southeastern Europe"],
+      "url": ["https://doi.org/10.3389/fped.2021.648939"],
+      "CountTest": ["0"],
+      "Detail": []
     },
     {
       "icon": "🇨🇦",
       "name": "Canada",
       "abbr": "CA",
-      "endocrine": [""],
-      "aminoacid": [""],
-      "organicAcid": [""],
-      "fattyAcid": [""],
-      "miscellaneous": [""],
-      "Hemo": [""],
-      "source": ["Current status of newborn screening worldwide: 2015"],
-      "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-      "CountTest": ["10"],
+      "endocrine": [
+        "Congenital adrenal hyperplasia",
+        "Congenital hypothyroidism"
+      ],
+      "aminoacid": [
+        "Citrullinaemia",
+        "Maple Syrup Urine Disease",
+        "Classic phenylketonuria",
+        "Tyrosinaemia type 1",
+        "Carnitine uptake defect"
+      ],
+      "organicAcid": [
+        "Glutaric acidaemia type I",
+        "3-Hydroxy-3-methylglutaric aciduria",
+        "Isovaleric acidaemia",
+        "Methylmalonic acidaemia",
+        "Propionic acidaemia"
+      ],
+      "fattyAcid": [
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency",
+        "Trifunctional protein deficiency",
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency"
+      ],
+      "miscellaneous": [
+        "Biotinidase deficiency",
+        "Classical galactosaemia",
+        "Cystic fibrosis",
+        "Severe Combined Immunodeficiencies"
+      ],
+      "Hemo": ["Sickle cell disease/thalassemia"],
+      "source": ["Newborn Screening: Current Status in Alberta, Canada"],
+      "url": ["https://doi.org/10.3390/ijns5040037"],
+      "CountTest": ["20"],
       "Detail": [
-        "Because of each state has its own policy, the data only represents common practice"
+        "Newborn screening panels remain non-uniform across Canada. Currently, NBSww only shows the province of Alberta NBS program."
       ]
+    },
+    {
+      "icon": "🇸🇦",
+      "name": "Saudi Arabia",
+      "abbr": "SA",
+      "endocrine": [
+        "Congenital adrenal hyperplasia",
+        "Congenital hypothyroidism"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Citrullinaemia type I",
+        "Argininosuccinic aciduria"
+      ],
+      "organicAcid": [
+        "3-Methylcrotonyl-CoA carboxylase deficiency/3-Methylglutacon aciduria/2-methyl-3-OH-butyric aciduria",
+        "Beta-ketothiolase deficiency",
+        "Glutaric acidaemia type I",
+        "3-Hydroxy-3-methylglutaric aciduria",
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "Methylmalonic acidaemia",
+        "Propionic acidaemia"
+      ],
+      "fattyAcid": ["Medium-chain acyl-CoA dehydrogenase deficiency"],
+      "miscellaneous": ["Biotinidase deficiency", "Classical galactosaemia"],
+      "Hemo": [""],
+      "source": [
+        "Expanded Newborn Screening Program in Saudi Arabia: Incidence of screened disorders"
+      ],
+      "url": ["https://doi.org/10.1111/jpc.13469"],
+      "CountTest": ["16"],
+      "Detail": [""]
     }
   ]
 }

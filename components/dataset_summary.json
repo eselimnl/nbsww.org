@@ -1,5 +1,22 @@
 [
   {
+    "icon": "🇪🇬",
+    "name": "Egypt",
+    "abbr": "EG",
+    "endocrine": ["CH", "CAH"],
+    "aminoacid": ["PKU", "MSUD", "TYR1", "GAL", "ASA", "Cit.1/2"],
+    "organicAcid": ["IVA", "PA"],
+    "fattyAcid": ["MCAD", "ARG"],
+    "miscellaneous": ["CF", "OCT", "HH", "PTPS", "BIOT"],
+    "Hemo": ["SCD"],
+    "source": ["Private news channel"],
+    "url": [
+      "https://www.egypttday.com/Article/1/108942/Egypt-launches-2nd-phase-of-screening-newborns-for-genetic-disorders"
+    ],
+    "CountTest": ["19"],
+    "Detail": ["Source of this data is not reliable and requires a validation."]
+  },
+  {
     "icon": "🇦🇩",
     "name": "Andorra",
     "abbr": "AD",
@@ -1181,6 +1198,7 @@
     "Detail": ["The country NBS program is covered by Switzerland"]
   },
   {
+    "icon": "🇱🇹",
     "abbr": "LTU",
     "name": "Lithuania",
     "endocrine": ["CH", "CAH"],
@@ -1574,15 +1592,139 @@
     "icon": "🇶🇦",
     "name": "Qatar",
     "abbr": "QA",
+    "endocrine": ["CH", "CAH"],
+    "aminoacid": [
+      "PKU",
+      "HPA",
+      "BIOPT-BS",
+      "MSUD",
+      "HCY",
+      "TYR1",
+      "Cit.1/2",
+      "ASA"
+    ],
+    "organicAcid": ["MMA", "PA", "GA1", "IVA", "3MCC", "GA2", "IBD"],
+    "fattyAcid": [
+      "MCAD",
+      "VLCAD",
+      "LCHAD/TFP",
+      "SCAD",
+      "CACT",
+      "CPT2",
+      "3HMG",
+      "BKT"
+    ],
+    "miscellaneous": ["GAL", "BIOT"],
+    "Hemo": [""],
+    "source": [
+      "Implementation of extended neonatal screening and a metabolic unit in the State of Qatar: Developing and optimizing strategies in cooperation with the Neonatal Screening Center in Heidelberg"
+    ],
+    "url": ["http://dx.doi.org/10.1007/s10545-007-0553-7"],
+    "CountTest": ["28"],
+    "Detail": []
+  },
+  {
+    "icon": "🇸🇬",
+    "name": "Singapore",
+    "abbr": "SG",
+    "endocrine": ["CH", "CAH"],
+    "aminoacid": [""],
+    "organicAcid": [""],
+    "fattyAcid": [""],
+    "miscellaneous": ["GAL", "BIOT", "SCID", "CF"],
+    "Hemo": [""],
+    "source": [""],
+    "url": [
+      "https://www.nuh.com.sg/our-services/Specialties/Paediatrics/Documents/NUH_Hello%20Baby.pdf"
+    ],
+    "CountTest": ["35"],
+    "Detail": []
+  },
+  {
+    "icon": "🇹🇼",
+    "name": "Taiwan, Province of China",
+    "abbr": "TW",
+    "endocrine": ["CH", "CAH"],
+    "aminoacid": [
+      "PKU",
+      "HPA",
+      "MSUD",
+      "TYR2/3",
+      "Cit.1/2",
+      "ASA",
+      "HHH",
+      "ARG"
+    ],
+    "organicAcid": ["MMA", "PA", "GA1/2", "IVA", "3MCC"],
+    "fattyAcid": [
+      "MCAD",
+      "VLCAD",
+      "LCHAD/TFP",
+      "SCAD",
+      "CACT",
+      "CPT1",
+      "CPT2",
+      "3HMG",
+      "BKT"
+    ],
+    "miscellaneous": ["GAL", "BIOT"],
+    "Hemo": [""],
+    "source": [
+      "National Taiwan University Hospital Department of Medical Genetics"
+    ],
+    "url": ["https://www.ntuh.gov.tw/gene/Fpage.action?muid=911&fid=768"],
+    "CountTest": ["24"],
+    "Detail": []
+  },
+  {
+    "icon": "🇮🇷",
+    "name": "Iran, Islamic Republic of",
+    "abbr": "IR",
+    "endocrine": ["CH"],
+    "aminoacid": ["PKU"],
+    "organicAcid": [""],
+    "fattyAcid": [""],
+    "miscellaneous": ["G6PD"],
+    "Hemo": [""],
+    "source": [
+      "Newborn screening data management: proposing a framework for Iran"
+    ],
+    "url": ["http://dx.doi.org/10.14236/jhi.v25i4.985"],
+    "CountTest": ["3"],
+    "Detail": []
+  },
+  {
+    "icon": "🇵🇰",
+    "name": "Pakistan",
+    "abbr": "PK",
     "endocrine": [""],
     "aminoacid": [""],
     "organicAcid": [""],
     "fattyAcid": [""],
     "miscellaneous": [""],
     "Hemo": [""],
-    "source": ["Current status of newborn screening worldwide: 2015"],
-    "url": ["https://doi.org/10.1053/j.semperi.2015.03.002"],
-    "CountTest": ["43"],
+    "source": [
+      "Biochemical Screening of Intellectually Disabled Patients: A Stepping Stone to Initiate a Newborn Screening Program in Pakistan"
+    ],
+    "url": ["https://doi.org/10.3389/fneur.2019.00762"],
+    "CountTest": ["0"],
+    "Detail": [""]
+  },
+  {
+    "icon": "🇮🇶",
+    "name": "Iraq",
+    "abbr": "IQ",
+    "endocrine": ["CH"],
+    "aminoacid": ["PKU"],
+    "organicAcid": [""],
+    "fattyAcid": [""],
+    "miscellaneous": ["GAL"],
+    "Hemo": [""],
+    "source": [
+      "National Guideline of Newborn Screening for Care Providers in Priamry Health Care Centers in Iraq"
+    ],
+    "url": ["https://pdf.usaid.gov/pdf_docs/PA00KBT5.pdf"],
+    "CountTest": ["3"],
     "Detail": []
   },
   {

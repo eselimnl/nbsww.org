@@ -152,8 +152,8 @@
     "long": "Propionic acidaemia"
   },
   {
-    "short": "PKU/HPA",
-    "long": " Phenylketonuria/Hyperphenylalaninaemia"
+    "short": "HPA",
+    "long": "Hyperphenylalaninaemia"
   },
   {
     "short": "RMD",
@@ -194,5 +194,33 @@
   {
     "short": "VLCAD",
     "long": "Very long-chain acyl-CoA dehydrogenase deficiency"
+  },
+  {
+    "short": "PTPS",
+    "long": "Tetrahydropytrine deficiency"
+  },
+  {
+    "short": "HH",
+    "long": "Hereditary Hyperlipidemia"
+  },
+  {
+    "short": "OCT",
+    "long": "Deficiency of the carbamoyl ornithine transporter"
+  },
+  {
+    "short": "BS",
+    "long": "Defects of biopterin cofactor biosynthesis"
+  },
+  {
+    "short": "IBD",
+    "long": "Isobutyryl-CoA dehydrogenase"
+  },
+  {
+    "short": "BIOPT-BS",
+    "long": "Defects of biopterin cofactor biosynthesis"
+  },
+  {
+    "short": "HHH",
+    "long": "Hyperornithinemia-hyperammonemia-homocitrullinuria"
   }
 ]

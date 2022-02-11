@@ -1,6 +1,6 @@
 import { useRouter } from "next/router";
 
-import countries from "../components/dataset_long";
+import countries from "../components/dataset_long.json";
 
 import { useEffect, useState } from "react";
 import styles from "../styles/countryInfo.module.css";
