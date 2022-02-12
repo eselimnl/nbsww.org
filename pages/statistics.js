@@ -21,7 +21,6 @@ const Styles = styled.div`
     border-spacing: 0;
     border: 1px solid black;
     font-size: 13px;
-    width: 100%;
     margin: 0;
     padding: 0;
     border-spacing: 0;
@@ -452,6 +451,10 @@ function App() {
             // Use our custom `fuzzyText` filter on this column
             Filter: NumberRangeColumnFilter,
             filter: "between",
+          },
+          {
+            Header: "Expanded NBS",
+            accessor: "ens",
           },
         ],
       },

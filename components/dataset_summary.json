@@ -1,13 +1,50 @@
 [
   {
+    "ens": "Exist",
+    "icon": "🇰🇼",
+    "name": "Kuwait",
+    "abbr": "KW",
+    "endocrine": ["CH", "CAH"],
+    "aminoacid": ["PKU", "MSUD", "TYR1", "ASA", "Cit.1/2", "HCY"],
+    "organicAcid": ["IVA", "PA", "3MCC", "3HMG", "MCD"],
+    "fattyAcid": ["MCAD", "ARG", "LCHAD/TFP", "VLCAD"],
+    "miscellaneous": ["GAL", "BIOT"],
+    "Hemo": [""],
+    "source": [
+      "Early Diagnosis of Classic Homocystinuria in Kuwait through Newborn Screening: A 6-Year Experience"
+    ],
+    "url": ["https://dx.doi.org/10.3390%2Fijns7030056"],
+    "CountTest": ["20"],
+    "Detail": [""]
+  },
+  {
+    "ens": "",
+    "icon": "🇵🇸",
+    "name": "Palestine, State of",
+    "abbr": "PS",
+    "endocrine": ["CH"],
+    "aminoacid": ["PKU"],
+    "organicAcid": [""],
+    "fattyAcid": [""],
+    "miscellaneous": [""],
+    "Hemo": [""],
+    "source": ["National Neonatal Protocol of Palestinian Minister of Health"],
+    "url": [
+      "https://www.pmc.ps/cached_uploads/download/2019/11/26/nnp-final-print-6-november-2019-1-1574767516.pdf"
+    ],
+    "CountTest": ["2"],
+    "Detail": [""]
+  },
+  {
+    "ens": "Exist",
     "icon": "🇪🇬",
     "name": "Egypt",
     "abbr": "EG",
     "endocrine": ["CH", "CAH"],
-    "aminoacid": ["PKU", "MSUD", "TYR1", "GAL", "ASA", "Cit.1/2"],
+    "aminoacid": ["PKU", "MSUD", "TYR1", "ASA", "Cit.1/2"],
     "organicAcid": ["IVA", "PA"],
     "fattyAcid": ["MCAD", "ARG"],
-    "miscellaneous": ["CF", "OCT", "HH", "PTPS", "BIOT"],
+    "miscellaneous": ["CF", "OCT", "HH", "PTPS", "BIOT", "GAL"],
     "Hemo": ["SCD"],
     "source": ["Private news channel"],
     "url": [
@@ -17,6 +54,7 @@
     "Detail": ["Source of this data is not reliable and requires a validation."]
   },
   {
+    "ens": "",
     "icon": "🇦🇩",
     "name": "Andorra",
     "abbr": "AD",
@@ -34,6 +72,7 @@
     "Detail": ["The country NBS program is covered by France"]
   },
   {
+    "ens": "",
     "icon": "🇦🇴",
     "name": "Angola",
     "abbr": "AO",
@@ -51,6 +90,7 @@
     "Detail": [""]
   },
   {
+    "ens": "",
     "icon": "🇧🇯",
     "name": "Benin",
     "abbr": "BJ",
@@ -68,6 +108,7 @@
     "Detail": [""]
   },
   {
+    "ens": "",
     "icon": "🇨🇩",
     "name": "Congo, Democratic Republic of the",
     "abbr": "CG",
@@ -85,6 +126,7 @@
     "Detail": [""]
   },
   {
+    "ens": "",
     "icon": "🇬🇭",
     "name": "Ghana",
     "abbr": "GH",
@@ -102,6 +144,7 @@
     "Detail": [""]
   },
   {
+    "ens": "",
     "icon": "🇲🇼",
     "name": "Malawi",
     "abbr": "MW",
@@ -119,6 +162,7 @@
     "Detail": [""]
   },
   {
+    "ens": "",
     "icon": "🇲🇱",
     "name": "Mali",
     "abbr": "ML",
@@ -136,6 +180,7 @@
     "Detail": [""]
   },
   {
+    "ens": "",
     "icon": "🇲🇦",
     "name": "Morocco",
     "abbr": "MA",
@@ -153,6 +198,7 @@
     "Detail": [""]
   },
   {
+    "ens": "",
     "icon": "🇳🇬",
     "name": "Nigeria",
     "abbr": "NG",
@@ -170,6 +216,7 @@
     "Detail": [""]
   },
   {
+    "ens": "",
     "icon": "🇹🇿",
     "name": "United Republic of Tanzania",
     "abbr": "TZ",
@@ -187,6 +234,7 @@
     "Detail": [""]
   },
   {
+    "ens": "",
     "icon": "🇺🇬",
     "name": "Uganda",
     "abbr": "UG",
@@ -204,6 +252,7 @@
     "Detail": [""]
   },
   {
+    "ens": "",
     "icon": "🇦🇱",
     "name": "Albania",
     "abbr": "AL",
@@ -221,14 +270,15 @@
     "Detail": [""]
   },
   {
+    "ens": "",
     "icon": "🇦🇷",
     "name": "Argentina",
     "abbr": "AR",
     "endocrine": ["CH", "CAH"],
-    "aminoacid": ["PKU", "GAL", "MSUD"],
+    "aminoacid": ["PKU", "MSUD"],
     "organicAcid": [""],
     "fattyAcid": [""],
-    "miscellaneous": ["CF", "BIOT"],
+    "miscellaneous": ["CF", "BIOT", "GAL"],
     "Hemo": [""],
     "source": [
       "Newborn screening in Latin America: A brief overview of thestate of the art"
@@ -238,6 +288,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇦🇲",
     "name": "Armenia",
     "abbr": "AM",
@@ -255,6 +306,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇦🇺",
     "name": "Australia",
     "abbr": "AU",
@@ -288,6 +340,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇦🇹",
     "name": "Austria",
     "abbr": "AT",
@@ -323,6 +376,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇦🇿",
     "name": "Azerbaijan",
     "abbr": "AZ",
@@ -340,6 +394,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇧🇩",
     "name": "Bangladesh",
     "abbr": "BD",
@@ -355,6 +410,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇧🇾",
     "name": "Belarus",
     "abbr": "BY",
@@ -372,6 +428,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇧🇪",
     "name": "Belgium",
     "abbr": "BE",
@@ -389,6 +446,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇧🇴",
     "name": "Bolivia",
     "abbr": "BO",
@@ -406,6 +464,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇧🇦",
     "name": "Bosnia and Herzegovina",
     "abbr": "BA",
@@ -423,6 +482,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇧🇷",
     "name": "Brazil",
     "abbr": "BR",
@@ -440,6 +500,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇧🇳",
     "name": "Brunei Darussalam",
     "abbr": "BN",
@@ -455,6 +516,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇧🇬",
     "name": "Bulgaria",
     "abbr": "BG",
@@ -472,6 +534,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇧🇫",
     "name": "Burkina Faso",
     "abbr": "BF",
@@ -487,6 +550,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇧🇮",
     "name": "Burundi",
     "abbr": "BI",
@@ -502,6 +566,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇰🇭",
     "name": "Cambodia",
     "abbr": "KH",
@@ -517,6 +582,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇨🇳",
     "name": "China",
     "abbr": "CN",
@@ -532,6 +598,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇨🇴",
     "name": "Colombia",
     "abbr": "CO",
@@ -549,14 +616,15 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇨🇷",
     "name": "Costa Rica",
     "abbr": "CR",
     "endocrine": ["CH", "CAH"],
-    "aminoacid": ["PKU", "GAL", "MSUD"],
+    "aminoacid": ["PKU", "MSUD"],
     "organicAcid": [""],
     "fattyAcid": [""],
-    "miscellaneous": [""],
+    "miscellaneous": ["GAL"],
     "Hemo": ["SCD"],
     "source": [
       "Newborn screening in Latin America: A brief overview of thestate of the art"
@@ -566,6 +634,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇨🇱",
     "name": "Chile",
     "abbr": "CL",
@@ -583,6 +652,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇭🇷",
     "name": "Croatia",
     "abbr": "HR",
@@ -600,14 +670,15 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇨🇺",
     "name": "Cuba",
     "abbr": "CU",
     "endocrine": ["CH", "CAH"],
-    "aminoacid": ["PKU", "GAL"],
+    "aminoacid": ["PKU"],
     "organicAcid": [""],
     "fattyAcid": [""],
-    "miscellaneous": ["CF", "BIOT"],
+    "miscellaneous": ["CF", "BIOT", "GAL"],
     "Hemo": [""],
     "source": [
       "Newborn screening in Latin America: A brief overview of thestate of the art"
@@ -617,6 +688,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇨🇾",
     "name": "Cyprus",
     "abbr": "CY",
@@ -634,6 +706,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇨🇿",
     "name": "Czech Republic",
     "abbr": "CZ",
@@ -651,6 +724,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇩🇰",
     "name": "Denmark",
     "abbr": "DK",
@@ -668,6 +742,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇩🇴",
     "name": "Dominican Republic",
     "abbr": "DO",
@@ -683,14 +758,15 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇪🇨",
     "name": "Ecuador",
     "abbr": "EC",
     "endocrine": ["CAH", "CH"],
-    "aminoacid": ["PKU", "GAL"],
+    "aminoacid": ["PKU"],
     "organicAcid": [""],
     "fattyAcid": [""],
-    "miscellaneous": [""],
+    "miscellaneous": ["GAL"],
     "Hemo": [""],
     "source": [
       "Newborn screening in Latin America: A brief overview of thestate of the art"
@@ -700,6 +776,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇵🇪",
     "name": "Peru",
     "abbr": "PE",
@@ -717,6 +794,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇪🇪",
     "name": "Estonia",
     "abbr": "EE",
@@ -734,6 +812,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇫🇯",
     "name": "Fiji",
     "abbr": "FJ",
@@ -749,6 +828,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇫🇮",
     "name": "Finland",
     "abbr": "FI",
@@ -775,6 +855,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇫🇷",
     "name": "France",
     "abbr": "FR",
@@ -792,6 +873,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇬🇪",
     "name": "Georgia",
     "abbr": "GE",
@@ -809,6 +891,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇩🇪",
     "name": "Germany",
     "abbr": "DE",
@@ -826,6 +909,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇬🇷",
     "name": "Greece",
     "abbr": "GR",
@@ -843,14 +927,15 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇬🇹",
     "name": "Guatemala",
     "abbr": "GT",
     "endocrine": ["CH", "CAH"],
-    "aminoacid": ["PKU", "GAL"],
+    "aminoacid": ["PKU"],
     "organicAcid": [""],
     "fattyAcid": [""],
-    "miscellaneous": ["CF"],
+    "miscellaneous": ["CF", "GAL"],
     "Hemo": [""],
     "source": [
       "Newborn screening in Latin America: A brief overview of thestate of the art"
@@ -860,6 +945,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇭🇹",
     "name": "Haiti",
     "abbr": "HT",
@@ -875,14 +961,15 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇭🇳",
     "name": "Honduras",
     "abbr": "HN",
     "endocrine": ["CH", "CAH"],
-    "aminoacid": ["PKU", "GAL"],
+    "aminoacid": ["PKU"],
     "organicAcid": [""],
     "fattyAcid": [""],
-    "miscellaneous": ["CF"],
+    "miscellaneous": ["CF", "GAL"],
     "Hemo": [""],
     "source": [
       "Newborn screening in Latin America: A brief overview of thestate of the art"
@@ -892,6 +979,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇭🇺",
     "name": "Hungary",
     "abbr": "HU",
@@ -918,6 +1006,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇮🇳",
     "name": "India",
     "abbr": "IN",
@@ -933,6 +1022,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇮🇩",
     "name": "Indonesia",
     "abbr": "ID",
@@ -950,6 +1040,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇮🇸",
     "name": "Iceland",
     "abbr": "IS",
@@ -987,6 +1078,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇮🇪",
     "name": "Ireland",
     "abbr": "IE",
@@ -1004,6 +1096,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇮🇱",
     "name": "Israel",
     "abbr": "IL",
@@ -1031,6 +1124,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇮🇹",
     "name": "Italy",
     "abbr": "IT",
@@ -1085,6 +1179,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇯🇵",
     "name": "Japan",
     "abbr": "JP",
@@ -1100,6 +1195,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇰🇿",
     "name": "Kazakhstan",
     "abbr": "KZ",
@@ -1117,6 +1213,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇰🇬",
     "name": "Kyrgyzstan",
     "abbr": "KG",
@@ -1134,6 +1231,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇰🇷",
     "name": "Korea, Republic of",
     "abbr": "KR",
@@ -1149,6 +1247,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇱🇦",
     "name": "Lao People's Democratic Republic",
     "abbr": "LA",
@@ -1164,6 +1263,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇱🇻",
     "name": "Latvia",
     "abbr": "LV",
@@ -1181,6 +1281,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇱🇮",
     "name": "Liechtenstein",
     "abbr": "LI",
@@ -1198,6 +1299,7 @@
     "Detail": ["The country NBS program is covered by Switzerland"]
   },
   {
+    "ens": "",
     "icon": "🇱🇹",
     "abbr": "LTU",
     "name": "Lithuania",
@@ -1215,6 +1317,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇱🇺",
     "name": "Luxembourg",
     "abbr": "LU",
@@ -1232,6 +1335,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇲🇰",
     "abbr": "MK",
     "name": "North Macedonia",
@@ -1259,6 +1363,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇲🇾",
     "name": "Malaysia",
     "abbr": "MY",
@@ -1274,6 +1379,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇲🇹",
     "name": "Malta",
     "abbr": "MT",
@@ -1289,6 +1395,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇽🇰",
     "name": "Kosovo",
     "abbr": "XK",
@@ -1304,14 +1411,15 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇲🇽",
     "name": "Mexico",
     "abbr": "MX",
     "endocrine": ["CH", "CAH"],
-    "aminoacid": ["PKU", "GAL"],
+    "aminoacid": ["PKU"],
     "organicAcid": [""],
     "fattyAcid": [""],
-    "miscellaneous": ["CF", "BIOT", "G6PD"],
+    "miscellaneous": ["CF", "BIOT", "G6PD", "GAL"],
     "Hemo": [""],
     "source": [
       "Newborn screening in Latin America: A brief overview of thestate of the art"
@@ -1321,6 +1429,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇲🇩",
     "name": "Moldova, Republic of",
     "abbr": "MD",
@@ -1338,6 +1447,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇲🇨",
     "name": "Monaco",
     "abbr": "MC",
@@ -1355,6 +1465,7 @@
     "Detail": ["The country NBS program is covered by France"]
   },
   {
+    "ens": "",
     "icon": "🇲🇪",
     "name": "Montenegro",
     "abbr": "ME",
@@ -1370,6 +1481,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇳🇱",
     "name": "Netherlands",
     "abbr": "NL",
@@ -1387,6 +1499,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇳🇿",
     "name": "New Zealand",
     "abbr": "NZ",
@@ -1402,6 +1515,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇳🇮",
     "name": "Nicaragua",
     "abbr": "NI",
@@ -1419,6 +1533,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇳🇴",
     "name": "Norway",
     "abbr": "NO",
@@ -1436,6 +1551,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇵🇼",
     "name": "Palau",
     "abbr": "PW",
@@ -1451,14 +1567,15 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇵🇦",
     "name": "Panama",
     "abbr": "PA",
     "endocrine": ["CAH", "CH"],
-    "aminoacid": ["PKU", "GAL"],
+    "aminoacid": ["PKU"],
     "organicAcid": [""],
     "fattyAcid": [""],
-    "miscellaneous": ["G6PD", "CF"],
+    "miscellaneous": ["G6PD", "CF", "GAL"],
     "Hemo": ["SCD"],
     "source": [
       "Newborn screening in Latin America: A brief overview of thestate of the art"
@@ -1468,6 +1585,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇵🇾",
     "name": "Paraguay",
     "abbr": "PY",
@@ -1485,6 +1603,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇵🇭",
     "name": "Philippines",
     "abbr": "PH",
@@ -1502,6 +1621,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇸🇻",
     "name": "El Salvador",
     "abbr": "SV",
@@ -1519,6 +1639,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇵🇱",
     "name": "Poland",
     "abbr": "PL",
@@ -1554,6 +1675,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇵🇹",
     "name": "Portugal",
     "abbr": "PT",
@@ -1589,6 +1711,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇶🇦",
     "name": "Qatar",
     "abbr": "QA",
@@ -1624,6 +1747,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇸🇬",
     "name": "Singapore",
     "abbr": "SG",
@@ -1641,6 +1765,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇹🇼",
     "name": "Taiwan, Province of China",
     "abbr": "TW",
@@ -1677,6 +1802,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇮🇷",
     "name": "Iran, Islamic Republic of",
     "abbr": "IR",
@@ -1694,6 +1820,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇵🇰",
     "name": "Pakistan",
     "abbr": "PK",
@@ -1711,6 +1838,7 @@
     "Detail": [""]
   },
   {
+    "ens": "",
     "icon": "🇮🇶",
     "name": "Iraq",
     "abbr": "IQ",
@@ -1728,6 +1856,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇷🇴",
     "name": "Romania",
     "abbr": "RO",
@@ -1743,6 +1872,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇷🇺",
     "name": "Russian Federation",
     "abbr": "RU",
@@ -1760,6 +1890,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇸🇲",
     "name": "San Marino",
     "abbr": "SM",
@@ -1814,6 +1945,7 @@
     "Detail": ["The country NBS program is covered by Italy"]
   },
   {
+    "ens": "",
     "icon": "🇷🇸",
     "name": "Serbia",
     "abbr": "RS",
@@ -1829,6 +1961,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇸🇰",
     "name": "Slovakia",
     "abbr": "SK",
@@ -1863,6 +1996,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇸🇮",
     "name": "Slovenia",
     "abbr": "SI",
@@ -1888,6 +2022,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇪🇸",
     "name": "Spain",
     "abbr": "ES",
@@ -1933,6 +2068,7 @@
     "Detail": ["(P)= Pilot/Regional screening"]
   },
   {
+    "ens": "Exist",
     "icon": "🇸🇪",
     "name": "Sweden",
     "abbr": "SE",
@@ -1950,6 +2086,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇨🇭",
     "name": "Switzerland",
     "abbr": "CH",
@@ -1967,6 +2104,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇹🇭",
     "name": "Thailand",
     "abbr": "TH",
@@ -1982,6 +2120,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇹🇷",
     "name": "Turkey",
     "abbr": "TR",
@@ -1999,6 +2138,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇹🇲",
     "name": "Turkmenistan",
     "abbr": "TM",
@@ -2016,6 +2156,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇺🇦",
     "name": "Ukraine",
     "abbr": "UA",
@@ -2042,6 +2183,7 @@
     "Detail": ["(P)= Pilot/Regional screening"]
   },
   {
+    "ens": "",
     "icon": "🇺🇿",
     "name": "Uzbekistan",
     "abbr": "UZ",
@@ -2074,6 +2216,7 @@
     "Detail": ["(P)= Pilot/Regional screening"]
   },
   {
+    "ens": "",
     "icon": "🇬🇧",
     "name": "United Kingdom",
     "abbr": "GB",
@@ -2091,6 +2234,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇺🇾",
     "name": "Uruguay",
     "abbr": "UY",
@@ -2108,6 +2252,7 @@
     "Detail": []
   },
   {
+    "ens": "",
     "icon": "🇻🇪",
     "name": "Venezuela",
     "abbr": "VE",
@@ -2123,6 +2268,7 @@
     "Detail": []
   },
   {
+    "ens": "Exist",
     "icon": "🇺🇲",
     "name": "United States",
     "abbr": "US",
@@ -2154,6 +2300,7 @@
     ]
   },
   {
+    "ens": "Exist",
     "icon": "🇨🇦",
     "name": "Canada",
     "abbr": "CA",
@@ -2171,12 +2318,13 @@
     ]
   },
   {
+    "ens": "Exist",
     "icon": "🇸🇦",
     "name": "Saudi Arabia",
     "abbr": "SA",
     "endocrine": ["CAH", "CH"],
     "aminoacid": ["PKU", "MSUD", "Cit.1", "ASA"],
-    "organicAcid": ["3MCC", "BKT", "GA1", "3HMG", "IVA", "MMA", "PA"],
+    "organicAcid": ["3MCC", "BKT", "GA1", "3HMG", "IVA", "MMA", "PA", "BKT"],
     "fattyAcid": ["MCAD"],
     "miscellaneous": ["BIOT", "GAL"],
     "Hemo": [""],
@@ -2185,6 +2333,22 @@
     ],
     "url": ["https://doi.org/10.1111/jpc.13469"],
     "CountTest": ["16"],
+    "Detail": [""]
+  },
+  {
+    "ens": "Exist",
+    "icon": "🇦🇪",
+    "name": "United Arab Emirates",
+    "abbr": "AE",
+    "endocrine": [""],
+    "aminoacid": [""],
+    "organicAcid": [""],
+    "fattyAcid": [""],
+    "miscellaneous": [""],
+    "Hemo": [""],
+    "source": [""],
+    "url": [""],
+    "CountTest": [""],
     "Detail": [""]
   }
 ]

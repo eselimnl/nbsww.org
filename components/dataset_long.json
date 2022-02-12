@@ -1,6 +1,78 @@
 {
   "countries": [
     {
+      "icon": "🇦🇪",
+      "name": "United Arab Emirates",
+      "abbr": "AE",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [""],
+      "url": [""],
+      "CountTest": [""],
+      "Detail": ["Data source investigation is pending"]
+    },
+    {
+      "icon": "🇰🇼",
+      "name": "Kuwait",
+      "abbr": "KW",
+      "endocrine": [
+        "Primary congenital hypothyroidism",
+        "Congenital adrenal hyperplasia"
+      ],
+      "aminoacid": [
+        "Classic phenylketonuria",
+        "Maple Syrup Urine Disease",
+        "Tyrosinaemia type 1",
+        "Homocystinuria",
+        "Citrullinaemia type I/II",
+        "Argininosuccinic aciduria"
+      ],
+      "organicAcid": [
+        "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria",
+        "Propionic acidaemia",
+        "3-Methylcrotonyl-CoA carboxylase deficiency/3-Methylglutacon aciduria/2-methyl-3-OH-butyric aciduria",
+        "3-Hydroxy-3-methylglutaric aciduria",
+        "multiple acyl-coA dehydrogenase"
+      ],
+      "fattyAcid": [
+        "Medium-chain acyl-CoA dehydrogenase deficiency",
+        "Argininemia",
+        "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency / Trifunctional protein deficiency",
+        "Very long-chain acyl-CoA dehydrogenase deficiency"
+      ],
+      "miscellaneous": ["Classical galactosaemia", "Biotinidase deficiency"],
+      "Hemo": [""],
+      "source": [
+        "Early Diagnosis of Classic Homocystinuria in Kuwait through Newborn Screening: A 6-Year Experience"
+      ],
+      "url": ["https://dx.doi.org/10.3390%2Fijns7030056"],
+      "CountTest": ["20"],
+      "Detail": [""]
+    },
+    {
+      "icon": "🇵🇸",
+      "name": "Palestine, State of",
+      "abbr": "PS",
+      "endocrine": ["Primary congenital hypothyroidism"],
+      "aminoacid": ["Classic phenylketonuria"],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "National Neonatal Protocol of Palestinian Minister of Health"
+      ],
+      "url": [
+        "https://www.pmc.ps/cached_uploads/download/2019/11/26/nnp-final-print-6-november-2019-1-1574767516.pdf"
+      ],
+      "CountTest": ["2"],
+      "Detail": [""]
+    },
+    {
       "icon": "🇪🇬",
       "name": "Egypt",
       "abbr": "EG",
@@ -60,8 +132,8 @@
       "url": ["https://doi.org/10.3390/ijns7010015"],
       "CountTest": ["6"],
       "Detail": ["The country NBS program is covered by France"]
-    },    
-	{
+    },
+    {
       "icon": "🇵🇰",
       "name": "Pakistan",
       "abbr": "PK",
