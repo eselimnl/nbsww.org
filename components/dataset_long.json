@@ -419,9 +419,11 @@
         "Cystic fibrosis"
       ],
       "Hemo": [""],
-      "source": [""],
-      "url": [""],
-      "CountTest": ["41"],
+      "source": ["Western Australia Department of Health"],
+      "url": [
+        "https://ww2.health.wa.gov.au/Articles/U_Z/WA-Newborn-Bloodspot-Screening-Program/Conditions-screened-for-in-WA"
+      ],
+      "CountTest": ["26"],
       "Detail": []
     },
     {
