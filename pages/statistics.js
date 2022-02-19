@@ -182,7 +182,6 @@ function SxProp() {
         >
           Abbreviations
         </Typography>
-        )}
       </Toolbar>
       <DataGrid
         {...abbr_data}
