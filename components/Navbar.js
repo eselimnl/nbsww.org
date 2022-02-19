@@ -53,8 +53,8 @@ const Navbar = () => {
       onKeyDown={toggleDrawer(anchor, false)}
     >
       <List>
-        {menu.map((val) => (
-          <ListItem>
+        {menu.map((val, index) => (
+          <ListItem key={index}>
             <Link key={val.id} href={val.link}>
               <Button
                 variant="text"

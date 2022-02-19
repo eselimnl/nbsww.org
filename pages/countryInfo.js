@@ -119,9 +119,9 @@ export default function CountryInfo(props) {
                   Endocrine Disorders
                 </Typography>
                 <List>
-                  {state?.endocrine?.map((val) => {
+                  {state?.endocrine?.map((val, index) => {
                     return (
-                      <ListItem divider={val === "" ? false : true}>
+                      <ListItem key={index} divider={val === "" ? false : true}>
                         <ListItemText primary={val} />
                       </ListItem>
                     );
@@ -142,9 +142,9 @@ export default function CountryInfo(props) {
                   Amino Acidemias
                 </Typography>
                 <List>
-                  {state?.aminoacid?.map((val) => {
+                  {state?.aminoacid?.map((val, index) => {
                     return (
-                      <ListItem divider={val === "" ? false : true}>
+                      <ListItem key={index} divider={val === "" ? false : true}>
                         <ListItemText primary={val} />
                       </ListItem>
                     );
@@ -165,9 +165,9 @@ export default function CountryInfo(props) {
                   Organic Acidemias
                 </Typography>
                 <List>
-                  {state?.organicAcid?.map((val) => {
+                  {state?.organicAcid?.map((val, index) => {
                     return (
-                      <ListItem divider={val === "" ? false : true}>
+                      <ListItem key={index} divider={val === "" ? false : true}>
                         <ListItemText primary={val} />
                       </ListItem>
                     );
@@ -188,9 +188,9 @@ export default function CountryInfo(props) {
                   Fatty acid Oxidation Disorders
                 </Typography>
                 <List>
-                  {state?.fattyAcid?.map((val) => {
+                  {state?.fattyAcid?.map((val, index) => {
                     return (
-                      <ListItem divider={val === "" ? false : true}>
+                      <ListItem key={index} divider={val === "" ? false : true}>
                         <ListItemText primary={val} />
                       </ListItem>
                     );
@@ -211,9 +211,9 @@ export default function CountryInfo(props) {
                   Miscellaneous Disorders
                 </Typography>
                 <List>
-                  {state?.miscellaneous?.map((val) => {
+                  {state?.miscellaneous?.map((val, index) => {
                     return (
-                      <ListItem divider={val === "" ? false : true}>
+                      <ListItem key={index} divider={val === "" ? false : true}>
                         <ListItemText primary={val} />
                       </ListItem>
                     );
@@ -233,9 +233,9 @@ export default function CountryInfo(props) {
                   Haemoglobinopathies
                 </Typography>
                 <List>
-                  {state?.Hemo?.map((val) => {
+                  {state?.Hemo?.map((val, index) => {
                     return (
-                      <ListItem divider={val === "" ? false : true}>
+                      <ListItem key={index} divider={val === "" ? false : true}>
                         <ListItemText primary={val} />
                       </ListItem>
                     );

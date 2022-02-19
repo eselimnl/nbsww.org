@@ -1,11 +1,17 @@
 import styles from "../styles/Home.module.css";
-import ReactTooltip from "react-tooltip";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import MapChart from "../components/MapChart";
 import { Typography } from "@mui/material";
+import dynamic from "next/dynamic";
+
+const ReactTooltip = dynamic(() => import("react-tooltip"), {
+  ssr: false,
+});
 
 export default function Home() {
   const [content, setContent] = useState("");
+
+  useEffect(() => setContent(""), []);
 
   return (
     <main className={styles.container}>
