@@ -8,6 +8,7 @@ import {
   GridToolbarFilterButton,
 } from "@mui/x-data-grid";
 import data from "../components/dataset_summary.json";
+import { styled } from "@mui/material/styles";
 import abbr_data from "../components/abbr.json";
 import Toolbar from "@mui/material/Toolbar";
 
@@ -108,7 +109,24 @@ function QuickFilteringGrid() {
   }, [rows]);
 
   return (
-    <Box sx={{ height: 600, width: 1 }}>
+    <Box
+      sx={{
+        height: 600,
+        width: 1,
+        bgcolor: "background.paper",
+        boxShadow: 2,
+        "& .MuiDataGrid-cell:hover": {
+          color: "primary.main",
+        },
+        "& .MuiDataGrid-columnHeader": {
+          color: "primary.main",
+        },
+        "& .MuiDataGrid-cell": {
+          borderRight: "1px solid",
+          borderColor: "#E0E0E0",
+        },
+      }}
+    >
       <DataGrid
         disableSelectionOnClick
         {...data}
