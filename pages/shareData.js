@@ -1,4 +1,3 @@
-import { Typography } from "@mui/material";
 import styles from "../styles/ShareData.module.css";
 
 export default function ShareData() {

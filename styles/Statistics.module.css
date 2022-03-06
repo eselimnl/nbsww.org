@@ -2,6 +2,9 @@
   max-width: 1380px !important;
   margin: auto;
   display: flex;
+  padding-left: 18px;
+  padding-right: 18px;
+  flex-direction: column;
 }
 .table2_container {
   max-width: 1380px !important;

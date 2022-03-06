@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 import styles from "../styles/Footer.module.css";
 
 import { Grid, Typography } from "@mui/material";

@@ -1,0 +1,226 @@
+[
+  {
+    "short": "PKU",
+    "long": "Classic Phenylketonuria"
+  },
+  {
+    "short": "CH",
+    "long": "Primary Congenital Hypothyroidism"
+  },
+  {
+    "short": "3HMG",
+    "long": "3-Hydroxy-3-methylglutaric aciduria"
+  },
+  {
+    "short": "3MCC",
+    "long": "3-Methylcrotonyl-CoA carboxylase deficiency/3-Methylglutacon aciduria/2-methyl3-OH-butyric aciduria"
+  },
+  {
+    "short": "AAD",
+    "long": "Disorders of amino acid metabolism"
+  },
+  {
+    "short": "x-ALD",
+    "long": "x-Adrenoleukodystrophy"
+  },
+  {
+    "short": "ARG",
+    "long": "Argininemia"
+  },
+  {
+    "short": "ASA",
+    "long": "Argininosuccinic aciduria"
+  },
+  {
+    "short": "BIO",
+    "long": "Biotinidase deficiency"
+  },
+  {
+    "short": "BKT",
+    "long": "Beta-ketothiolase deficiency"
+  },
+  {
+    "short": "CACT",
+    "long": "Carnitine acylcarnitine translocase deficiency"
+  },
+  {
+    "short": "CAH",
+    "long": "Congenital adrenal hyperplasia"
+  },
+  {
+    "short": "CF",
+    "long": "Cystic fibrosis"
+  },
+  {
+    "short": "CFTR",
+    "long": "cystic fibrosis transmembrane conductance regulator"
+  },
+  {
+    "short": "CIT1",
+    "long": "Citrullinaemia type I"
+  },
+  {
+    "short": "CIT2",
+    "long": " Citrullinaemia type II"
+  },
+  {
+    "short": "CPT1",
+    "long": "Carnitine palmitoyltransferase deficiency type I"
+  },
+  {
+    "short": "CPT2",
+    "long": "Carnitine palmitoyltransferase type II-/Carnitine acylcarnitine transporter deficiency"
+  },
+  {
+    "short": "CUD",
+    "long": "Carnitine uptake defect"
+  },
+  {
+    "short": "FAOD",
+    "long": "Disorders of fatty acid metabolism"
+  },
+  {
+    "short": "G6PD",
+    "long": "Glucose-6-phophate dehydrogenase deficiency"
+  },
+  {
+    "short": "GA1",
+    "long": "Glutaric acidaemia type I"
+  },
+  {
+    "short": "GA2",
+    "long": "Glutaric acidaemia type II or multiple acyl coA dehydrogenase deficiency"
+  },
+  {
+    "short": "GAL",
+    "long": "Classical galactosaemia"
+  },
+  {
+    "short": "GALK",
+    "long": "Galactose kinase deficiency"
+  },
+  {
+    "short": "HCY",
+    "long": "Homocystinuria (CBS deficiency)"
+  },
+  {
+    "short": "HCSD",
+    "long": "Holocarboxylase synthetase deficiency"
+  },
+  {
+    "short": "Hemo",
+    "long": "Haemoglobinopathies"
+  },
+  {
+    "short": "HPLC",
+    "long": "High performance liquid chromatography"
+  },
+  {
+    "short": "IVA",
+    "long": "Isovaleric acidaemia (IVA)/2-Methylbutyrylglycinuria"
+  },
+  {
+    "short": "LCHAD",
+    "long": "Long-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency/ Trifunctional :protein deficiency"
+  },
+  {
+    "short": "LSD",
+    "long": "Lysosomal storage disorder"
+  },
+  {
+    "short": "MAT I/III",
+    "long": "Methionine adenosyl transferase I/III deficiency"
+  },
+  {
+    "short": "MCAD",
+    "long": "Medium-chain acyl-CoA dehydrogenase deficiency"
+  },
+  {
+    "short": "MCD",
+    "long": "Multiple carboxylase deficiency"
+  },
+  {
+    "short": "MMA",
+    "long": "Methylmalonic acidaemia"
+  },
+  {
+    "short": "MSUD",
+    "long": "Maple Syrup Urine Disease"
+  },
+  {
+    "short": "PA",
+    "long": "Propionic acidaemia"
+  },
+  {
+    "short": "HPA",
+    "long": "Hyperphenylalaninaemia"
+  },
+  {
+    "short": "RMD",
+    "long": "Remethylation disorders (methylenetetrahydrofolate reductase, methylcobalamine :deficiencies)"
+  },
+  {
+    "short": "SCD",
+    "long": "Sickle cell disease/thalassemia"
+  },
+  {
+    "short": "SCID",
+    "long": "Severe Combined Immunodeficiencies"
+  },
+  {
+    "short": "SCAD",
+    "long": "Short-chain acyl-CoA dehydrogenase deficiency"
+  },
+  {
+    "short": "SMA",
+    "long": "Spinal muscular atrophy"
+  },
+  {
+    "short": "TFP",
+    "long": "Trifunctional protein deficiency"
+  },
+  {
+    "short": "TYR1",
+    "long": "Tyrosinaemia type 1"
+  },
+  {
+    "short": "TYR2",
+    "long": "Tyrosinaemia type 2"
+  },
+  {
+    "short": "UDP",
+    "long": "UDP-galactose-4-epimerase deficiency"
+  },
+  {
+    "short": "VLCAD",
+    "long": "Very long-chain acyl-CoA dehydrogenase deficiency"
+  },
+  {
+    "short": "PTPS",
+    "long": "Tetrahydropytrine deficiency"
+  },
+  {
+    "short": "HH",
+    "long": "Hereditary Hyperlipidemia"
+  },
+  {
+    "short": "OCT",
+    "long": "Deficiency of the carbamoyl ornithine transporter"
+  },
+  {
+    "short": "BS",
+    "long": "Defects of biopterin cofactor biosynthesis"
+  },
+  {
+    "short": "IBD",
+    "long": "Isobutyryl-CoA dehydrogenase"
+  },
+  {
+    "short": "BIOPT-BS",
+    "long": "Defects of biopterin cofactor biosynthesis"
+  },
+  {
+    "short": "HHH",
+    "long": "Hyperornithinemia-hyperammonemia-homocitrullinuria"
+  }
+]
