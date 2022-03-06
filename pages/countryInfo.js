@@ -54,39 +54,25 @@ export default function CountryInfo(props) {
                 padding: "36px",
               }}
             >
-              <Grid container>
-                <Grid
-                  justifyContent="center"
-                  alignItems="center"
-                  textAlign="center"
-                  item
-                  xs={12}
-                  sm={12}
-                  md={3}
-                >
-                  <ReactCountryFlag
-                    style={{
-                      width: "12rem",
-                      height: "9rem",
-                      minWidth: "180px",
-                      minHeight: "135px",
-                      border: "0.6px solid lightgray",
-                    }}
-                    svg
-                    aria-label="country"
-                    countryCode={state.abbr}
-                  />
-                </Grid>
-                <Grid
-                  justifyContent="center"
-                  alignItems="center"
-                  textAlign="center"
-                  item
-                  xs={12}
-                  sm={12}
-                  md={9}
+              <Box sx={{ display: "flex" }}>
+                <ReactCountryFlag
+                  style={{
+                    width: "20vw",
+                    height: "24vw",
+                    maxWidth: "200px",
+                    maxHeight: "160px",
+                  }}
+                  svg
+                  aria-label="United States"
+                  countryCode={state.abbr}
+                />
+                <Box
                   sx={{
-                    paddingTop: "12px",
+                    ml: 2,
+                    textAlign: "center",
+                    display: "flex",
+                    width: "100%",
+                    flexDirection: "column",
                   }}
                 >
                   <Typography variant="h5">{state.name}</Typography>
@@ -98,10 +84,7 @@ export default function CountryInfo(props) {
                     the country, please{" "}
                     <Link href="/shareData">Share Data</Link>.
                   </Typography>
-                  <p></p>
                   <Typography variant="body">{state?.Detail}</Typography>
-                </Grid>
-                <Grid item xs={12}>
                   <Box
                     sx={{
                       display: "flex",
@@ -115,14 +98,14 @@ export default function CountryInfo(props) {
                       variant="outlined"
                       onClick={(e) => {
                         e.preventDefault();
-                        window.location.href = `${state.url}`; ///????
+                        window.location.href = `${state.url}`;
                       }}
                     >
                       Data Source
                     </Button>
                   </Box>
-                </Grid>
-              </Grid>
+                </Box>
+              </Box>
             </Card>
           </Grid>
           <Grid sx={{ marginTop: "20px" }} item xs={12} md={5.8}>

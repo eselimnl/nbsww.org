@@ -22,6 +22,7 @@ import MenuIcon from "@mui/icons-material/Menu";
 
 import { useRouter } from "next/router";
 import Image from "next/image";
+import image from "../public/LOGO.svg";
 
 import styles from "../styles/Navbar.module.css";
 
@@ -105,12 +106,7 @@ const Navbar = () => {
           className={styles.logoContainer}
         >
           <Box sx={{ maxWidth: "240px" }}>
-            <Image
-              src="/../public/LOGO.svg"
-              height="72"
-              width="414"
-              alt="logo"
-            />
+            <Image src={image} alt="logo" />
           </Box>
         </Grid>
         <Grid
