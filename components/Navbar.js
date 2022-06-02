@@ -105,12 +105,14 @@ const Navbar = () => {
           className={styles.logoContainer}
         >
           <Box sx={{ maxWidth: "240px" }}>
+            <Button href={"/"}>
             <Image
-              src="/../public/LOGO.svg"
+              src="/LOGO.svg"
               height="72"
               width="414"
               alt="logo"
             />
+            </Button>
           </Box>
         </Grid>
         <Grid
@@ -126,7 +128,7 @@ const Navbar = () => {
           <Box sx={{ width: "100%" }}>
             <Autocomplete
               id="country-select"
-              sx={{ width: "100%" }}
+              sx={{ width: "100%", borderRadius: '24px' }}
               options={countries}
               autoHighlight
               onKeyDown={(e) => {

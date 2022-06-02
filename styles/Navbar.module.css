@@ -33,3 +33,7 @@
   display: flex;
   align-items: center;
 }
+
+.test{
+  border-radius: 24px;
+}

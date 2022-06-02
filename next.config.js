@@ -1,13 +1,20 @@
+const withPlugins = require("next-compose-plugins");
 const withBundleAnalyzer = require("@next/bundle-analyzer")({
   enabled: process.env.ANALYZE === "true",
 });
+
+const withTM = require("next-transpile-modules")([
+  "@mui/material",
+  "@mui/system",
+  "@mui/icons-material", // If @mui/icons-material is being used
+]);
 
 // You might need to insert additional domains in script-src if you are using external services
 const ContentSecurityPolicy = `
   default-src 'self';
   script-src 'self' 'unsafe-eval' 'unsafe-inline';
   style-src 'self' 'unsafe-inline';
-  img-src * blob: data:;
+  img-src * 'self' data:;
   media-src 'none';
   connect-src *;
   font-src 'self';
@@ -52,7 +59,7 @@ const securityHeaders = [
   },
 ];
 
-module.exports = withBundleAnalyzer({
+const nextConfig = {
   reactStrictMode: true,
   pageExtensions: ["js", "jsx", "md", "mdx"],
   eslint: {
@@ -76,28 +83,21 @@ module.exports = withBundleAnalyzer({
       // Replace React with Preact only in client production build
       Object.assign(config.resolve.alias, {
         "react/jsx-runtime.js": "preact/compat/jsx-runtime",
-        react: "preact/compat",
+        "react": "preact/compat",
         "react-dom/test-utils": "preact/test-utils",
         "react-dom": "preact/compat",
         "@mui/styled-engine": "@mui/styled-engine-sc",
       });
+
+      config.resolve.alias = {
+        ...config.resolve.alias,
+        "@mui/styled-engine": "@mui/styled-engine-sc",
+      };
+
     }
 
     return config;
   },
-});
-const withTM = require("next-transpile-modules")([
-  "@mui/material",
-  "@mui/system",
-  "@mui/icons-material", // If @mui/icons-material is being used
-]);
+};
 
-module.exports = withTM({
-  webpack: (config) => {
-    config.resolve.alias = {
-      ...config.resolve.alias,
-      "@mui/styled-engine": "@mui/styled-engine-sc",
-    };
-    return config;
-  },
-});
+module.exports = withPlugins([[withBundleAnalyzer], [withTM]], nextConfig);
