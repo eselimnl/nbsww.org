@@ -73,7 +73,7 @@ const MapChart = ({ setTooltipContent }) => {
                       console.log(d);
                       const { NAME, POP_EST } = geo.properties;
                       setTooltipContent(
-                        `d?.name - Screened conditions: ${
+                        `${d?.name} - Screened conditions: ${
                           d?.CountTest === undefined ? "Unknown" : d?.CountTest
                         }`
                       );
