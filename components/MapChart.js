@@ -16,7 +16,7 @@ import { Box } from "@mui/material";
 import countries from "./dataset_summary";
 
 const geoUrl =
-  "https://raw.githubusercontent.com/zcreativelabs/react-simple-maps/master/topojson-maps/world-110m.json";
+  "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json";
 
 const colorScale = scaleLinear()
   .domain([0, 5, 10, 20, 30, 40])
