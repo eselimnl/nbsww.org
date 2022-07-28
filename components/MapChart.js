@@ -61,8 +61,8 @@ const MapChart = ({ setTooltipContent }) => {
           <Geographies geography={geoUrl}>
             {({ geographies }) =>
               geographies.map((geo) => {
-                const d = data.find((s) => s.abbr === geo.properties.Alpha-2);
-                let val = parseInt(d?.CountTest);
+                // const d = data.find((s) => s.abbr === geo.properties.Alpha-2);
+                // let val = parseInt(d?.CountTest);
                 return (
                   <Geography
                     key={geo.rsmKey}
