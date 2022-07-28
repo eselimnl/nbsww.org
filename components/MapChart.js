@@ -16,7 +16,7 @@ import { Box } from "@mui/material";
 import countries from "./dataset_summary";
 
 const geoUrl =
-  "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json";
+  "https://raw.githubusercontent.com/eselimnl/world_mapjsonmuse/main/world-countries-edited.json";
 
 const colorScale = scaleLinear()
   .domain([0, 5, 10, 20, 30, 40])
@@ -61,7 +61,7 @@ const MapChart = ({ setTooltipContent }) => {
           <Geographies geography={geoUrl}>
             {({ geographies }) =>
               geographies.map((geo) => {
-                const d = data.find((s) => s.abbr === geo.properties[“Alpha-2”]);
+                const d = data.find((s) => s.abbr === geo.properties.Alpha2);
                 let val = parseInt(d?.CountTest);
                 return (
                   <Geography
